@@ -1,0 +1,139 @@
+session_id: "S-G-260718-1522"
+summary: "SES-014: Proyecto supergrupos de rock (3 shorts) — investigación de 38 bandas, guion Short 1, y pipeline de skills nuevo (script-short + QA/auditoría)"
+type: feature
+outcomes:
+  - "Definido y cerrado el alcance del proyecto: 3 shorts de 2-3 min (TikTok + YouTube Shorts), mosaico de menciones breves sobre 38 supergrupos de rock, cada uno con votación en comentarios para elegir 3 candidatos a documental completo"
+  - "Investigación completa de saturación de contenido y ángulo de diferenciación para los 38 supergrupos, con fuentes reales — documentada en produccion/supergrupos_rock/investigacion_saturacion.md"
+  - "Guion del Short 1 escrito, revisado 3 veces con feedback real del usuario (narrativo en vez de mecánico, encuadre de 'primer bloque' en vez de lista cerrada, nombres de integrantes + bandas de origen + rivalidades verificadas) — produccion/supergrupos_rock/script_short_1.md"
+  - "Nuevo skill rockwise-script-short creado y validado: alterno a rockwise-script para formato corto (mosaico, sin protagonista único, sin marcadores de tono, output limpio para grabación directa)"
+  - "Nuevo skill rockwise-qa-audit creado y validado: gate obligatorio de verificación independiente (QA Expert + Auditor) antes de pasar a assets — intento de ejecución falló por límite de sesión, pendiente reintentar"
+  - "rockwise-research endurecido: mínimo 3 fuentes independientes reales por hecho (antes pedía solo 1 fuente primaria)"
+  - "Commit y push a origin/master (86edfb3) para continuidad en otra máquina — working tree limpio en los archivos de esta sesión, dejando fuera intencionalmente ruido no relacionado (sync de skills rai-*, backups, duplicados de Drive)"
+patterns:
+  - description: "En un guion mosaico con múltiples menciones breves, listar hechos de forma aislada se siente mecánico — cada mención necesita una frase puente narrativa (contraste, causa, paralelismo) con la anterior, aunque eso alargue el guion más allá de la meta de palabras original"
+    context: "rockwise-script-short,narrativa,shorts"
+    type: process
+  - description: "En videos de rock/supergrupos, la audiencia quiere saber de qué banda venía cada integrante y si había rivalidad real entre ellos — omitir esto hace que la mención se sienta vacía aunque el dato principal sea correcto"
+    context: "rockwise-script-short,contenido,audiencia"
+    type: process
+  - description: "Al abrir un video que es parte de una serie/lista, encuadrar como 'primer bloque de N' en vez de presentar el conteo como una selección cerrada y definitiva evita que la audiencia asuma que el canal ya decidió cuáles son 'las' bandas importantes"
+    context: "rockwise-script-short,framing,series"
+    type: process
+  - description: "Para series con votación en comentarios (sin poll nativo de la plataforma), repetir el CTA de 'piensa tus favoritas' al inicio, a la mitad y al final del video mejora la probabilidad de que la audiencia llegue al final con su selección ya decidida"
+    context: "rockwise-script-short,cta,votacion"
+    type: process
+  - description: "Cuando el canal ya tiene contenido corto (no documental completo) sobre un tema que se menciona en un short nuevo, el guion debe decirlo explícitamente como gancho ('ya viste una probadita, la versión completa no existe') en vez de tratarlo como historia repetida o como ya resuelta"
+    context: "rockwise-script-short,continuidad,contenido-previo"
+    type: process
+corrections:
+  - what: "El guion inicial del Short 1 listaba cada supergrupo como hecho aislado sin conexión narrativa entre menciones"
+    lesson: "El usuario corrigió de inmediato: se sentía mecánico. La corrección aplicada y ahora documentada en el skill es usar frases puente (contraste/causa/paralelismo) entre cada mención, permitiendo que el conteo de palabras crezca si el flujo narrativo lo pide"
+  - what: "Se abrió el guion listando 'estas 13 bandas' como si fuera una selección cerrada, y se omitieron integrantes/bandas de origen en varias menciones (ej. Blind Faith sin nombres)"
+    lesson: "El usuario señaló que esto da la impresión de lista definitiva y que la audiencia quiere el 'morbo' de saber de dónde venía cada integrante y si había rivalidad — ambas correcciones ahora son requisitos explícitos en rockwise-script-short"
+  - what: "Se presentó el guion como listo para grabar sin que las verificaciones de QA Expert y Auditor hubieran completado (los 2 agentes golpearon el límite de sesión sin producir resultado)"
+    lesson: "Comunicar de inmediato y con claridad cuando una verificación pedida explícitamente por el usuario no se completó, en vez de dejarlo implícito — el guion quedó marcado con estado pendiente en el propio archivo hasta que se reintente"
+coaching:
+  trust_level: "established"
+  strengths: ["incorpora feedback iterativo sin fricción", "verifica antes de afirmar (corrigió 2 suposiciones propias con búsqueda real)", "traduce feedback puntual en mejoras de skill reutilizables"]
+  growth_edge: "ser más proactivo en flaggear alcance/costo de operaciones de investigación amplias antes de ejecutarlas, no solo después"
+  relationship:
+    quality: "productiva, alta confianza en verificación factual"
+    trajectory: "mejorando — el usuario está institucionalizando estándares de calidad (3 fuentes, QA/Auditor) que quedaron documentados en los skills para futuras sesiones"
+current_work:
+  release: ""
+  epic: ""
+  story: ""
+  phase: "produccion-shorts"
+  branch: "master"
+pending:
+  decisions:
+    - "Confirmar si se reintenta la auditoría QA Expert + Auditor del Short 1 en esta máquina o en la del usuario (PC)"
+  blockers:
+    - "QA Expert y Auditor (rockwise-qa-audit) no completaron su primera corrida — golpearon límite de sesión sin producir hallazgos. Short 1 NO debe grabarse hasta pasar este gate."
+  next_actions:
+    - "Reintentar /rockwise-qa-audit sobre produccion/supergrupos_rock/script_short_1.md cuando el usuario retome (posiblemente desde su PC)"
+    - "Si el Short 1 pasa la auditoría: escribir guion del Short 2 con rockwise-script-short (abre con 'segundo bloque', sin repetir definición de supergrupo)"
+    - "Escribir guion del Short 3 con rockwise-script-short"
+    - "Documentar en produccion/supergrupos_rock/investigacion_saturacion.md el detalle completo de saturación/diferenciación de Short 2 y 3 (por ahora solo resumido, el detalle completo quedó en el historial de chat de esta sesión)"
+    - "Pendiente heredado de sesiones anteriores: reemplazar 2 secciones del teaser de Cornell (net worth ~45s, mazo/UFC ~70-80s), decidir si recortar el guion de Cornell (~24 min), confirmar título final de Cornell, revisar los 7 tracks de Suno con Gemini"
+narrative: |
+  ## Decisiones
+  - El usuario propuso un short de votación (2-3 min) sobre supergrupos de rock para
+    validar con la audiencia cuáles 3 (de una lista mayor) merecen convertirse en
+    documental completo, antes de invertir producción completa en cada uno.
+  - Lista final: 38 supergrupos únicos repartidos en 3 shorts (13/12/13), mezclando
+    conocidos y desconocidos por decisión explícita del usuario ("no es un chart,
+    es una breve mención"). Se agregó Mad Season (ya tiene doc propio del canal) y
+    4 sugerencias mías (The Firm, UK, The Dead Weather, boygenius), todas aceptadas.
+  - Cadencia de publicación recomendada: cada 4-5 días entre los 3 shorts, para
+    llenar el hueco mientras se termina el documental largo de las 7 canciones de
+    Soundgarden, sin canibalizar la atención entre shorts. Deadline interno de
+    conteo de votos ~10 días por short, sin anunciar fecha rígida en el guion.
+  - Confirmado por búsqueda: término oficial es "supergrupo" (sinónimo aceptado
+    "superbanda"), según Wikipedia ES y prensa rock especializada.
+  - El usuario pidió endurecer el estándar de verificación factual: mínimo 3 fuentes
+    independientes reales por hecho (antes el skill solo pedía 1), y un gate de QA
+    Expert + Auditor independientes antes de dar cualquier guion por bueno — ambos
+    ahora institucionalizados en los skills, no solo aplicados ad-hoc a este video.
+
+  ## Research
+  - Investigación completa de saturación de contenido (qué tan cubiertos están en
+    YouTube/TikTok) y ángulo de diferenciación para los 38 supergrupos, con fuentes
+    reales (Wikipedia, Louder, Ultimate Classic Rock, AllMusic, Rolling Stone, etc.)
+    — ver produccion/supergrupos_rock/investigacion_saturacion.md.
+  - Hallazgos de "morbo"/rivalidad verificados y usados en el guion: Bruce y Baker
+    (Cream) se odiaban desde la Graham Bond Organisation antes de que Clapton los
+    juntara sin saberlo; Crosby suplió a Young en Monterey antes de ser su
+    compañero en CSNY; Blind Faith nació de Clapton y Baker regresando a tocar
+    juntos meses después de que Cream se separara.
+  - Dos correcciones a suposiciones propias, detectadas por verificación real:
+    HSAS no incluye a Aynsley Dunbar (el baterista real es Michael Shrieve, ex
+    Santana); Apparatjik no incluye a Matt Sweeney (el cuarto integrante es
+    Martin Terefe).
+  - Dos ganchos de actualidad real 2026 identificados para Short 3: reunión de
+    Atoms for Peace (Yorke/Flea, sencillo nuevo enero 2026) y álbum/gira nuevos
+    de Puscifer ("Normal Isn't").
+
+  ## Artifactos
+  - produccion/supergrupos_rock/investigacion_saturacion.md — research completo
+  - produccion/supergrupos_rock/script_short_1.md — guion final del Short 1,
+    marcado como PENDIENTE de pasar el gate de QA/auditoría
+  - .claude/skills/rockwise-script-short/SKILL.md — nuevo skill (formato corto)
+  - .claude/skills/rockwise-qa-audit/SKILL.md — nuevo skill (gate QA Expert + Auditor)
+  - .claude/skills/rockwise-research/SKILL.md — editado (3 fuentes mínimo por hecho)
+
+  ## Branch State
+  - master, 1 commit ahead de donde empezó la sesión, ya pusheado a origin
+    (86edfb3). Working tree limpio en los archivos tocados esta sesión.
+  - Se dejó explícitamente sin commitear: 25 archivos rai-*/SKILL.md modificados
+    por un sync automático previo a esta conversación, carpeta de backup
+    _backup_local_pre_git_sync_20260718 (440K), y varios archivos/carpetas
+    duplicados con sufijo "(1)" o "cornell_soundgarden 2" (restos de un conflicto
+    de sincronización de Google Drive del cambio de máquina) — decisión
+    explicada al usuario, no una omisión silenciosa.
+next_session_prompt: |
+  CONTEXTO CRÍTICO A RECORDAR:
+  1. El usuario va a verificar el trabajo de hoy desde su PC (hizo `git pull`
+     después de este commit/push: 86edfb3). Confirmar que todo llegó bien antes
+     de asumir continuidad — si pregunta por el guion del Short 1, ya está en
+     produccion/supergrupos_rock/script_short_1.md.
+  2. PENDIENTE CRÍTICO: el guion del Short 1 NO ha pasado el gate de
+     /rockwise-qa-audit — los 2 agentes (QA Expert y Auditor) golpearon el
+     límite de sesión en el primer intento y no produjeron ningún hallazgo.
+     No se debe tratar el guion como definitivo ni sugerir grabarlo hasta
+     reintentar esta verificación con éxito.
+  3. Si el usuario quiere seguir con la serie: Short 2 y Short 3 se escriben con
+     /rockwise-script-short, seden con "segundo/tercer bloque" en vez de repetir
+     la definición de supergrupo, y deben incluir integrantes + bandas de origen
+     + rivalidades verificadas (aprendizaje de esta sesión, ya documentado en el
+     skill). La investigación de saturación de Short 2 y 3 está resumida en
+     investigacion_saturacion.md pero el detalle completo por banda (con fuentes)
+     vive en el historial de chat de esta sesión — si hace falta el detalle
+     completo, puede necesitar re-investigarse en vez de asumir que ya existe
+     por escrito en el repo.
+  4. Contexto heredado de sesiones anteriores sigue pendiente y no se tocó hoy:
+     reemplazar 2 secciones del teaser de Cornell (net worth ~45s, mazo/UFC
+     ~70-80s), decidir si recortar el guion de Cornell (~24 min vs. 15-20 min
+     objetivo), confirmar título final de Cornell, revisar los 7 tracks de Suno
+     con Gemini, huecos de footage (Matt Cameron/Pearl Jam 2025, White Album
+     Beatles), grabar en ElevenLabs bloques [NUEVO] del guion de Cornell.

@@ -1,0 +1,242 @@
+﻿entity,type,ecosystem,primary_videos,mention_videos,primary_60s_plus,primary_last_90d,median_views,recent_median_views,median_share_rate_pct,median_engagement_rate_pct,top_10pct_hits,best_views,best_date,latest_date,dominant_angles,status
+Gustavo Cerati,artist,Cerati/Soda,11,14,9,1,2515,19032,0.3918,3.6501,0,46925,2025-12-23,2026-05-10,presentación/canción:6; familia/relación:3; historia/legado:3,SATURADO/BAJO RETORNO
+Pearl Jam,band,Pearl Jam,10,27,10,1,5198,2174,0.2792,4.9409,0,85188,2026-02-15,2026-05-20,historia/legado:6; presentación/canción:5; noticia/actualidad:3,"PROFUNDO, AÚN PRODUCTIVO"
+Chris Cornell,artist,Cornell,8,18,7,0,7010,0,0.2085,4.6554,0,60686,2025-02-07,2025-12-23,instrumento/técnica:6; historia/legado:4; presentación/canción:3,COBERTURA MEDIA / INCONCLUSA
+Slash,artist,Guns N' Roses,8,14,8,0,2188,0,0.2321,3.9636,1,108247,2025-02-02,2025-12-14,presentación/canción:4; noticia/actualidad:4; historia/legado:4,COBERTURA MEDIA / INCONCLUSA
+David Gilmour,artist,Pink Floyd,8,12,8,0,16226,0,0.3647,4.6315,0,38029,2025-02-04,2025-12-30,instrumento/técnica:6; historia/legado:5; entrevista/confesión:2,COBERTURA MEDIA / INCONCLUSA
+Scott Weiland,artist,Weiland,7,14,7,5,13134,13134,0.2533,5.2764,0,38395,2026-07-12,2026-07-17,conflicto/negocio:3; entrevista/confesión:3; presentación/canción:3,"PROFUNDO, AÚN PRODUCTIVO"
+Dave Grohl,artist,Grohl/Foo Fighters,7,11,7,1,20158,1926,0.1285,3.0633,2,154315,2025-01-28,2026-06-01,historia/legado:4; familia/relación:3; instrumento/técnica:2,COBERTURA MEDIA / INCONCLUSA
+Pink Floyd,band,Pink Floyd,6,18,5,0,941,0,0.5182,6.1666,0,13967,2026-03-23,2026-04-13,instrumento/técnica:3; noticia/actualidad:2; otro:2,SUBCUBIERTO CON SEÑAL
+Led Zeppelin,band,Led Zeppelin,6,16,6,0,22752,0,0.3665,5.3558,1,880654,2025-03-22,2026-02-11,presentación/canción:2; historia/legado:2; otro:2,SUBCUBIERTO CON SEÑAL
+Eddie Vedder,artist,Pearl Jam,6,15,6,0,15143,0,0.1962,3.4091,1,183320,2025-02-08,2025-12-24,entrevista/confesión:3; muerte/adversidad:2; historia/legado:2,SUBCUBIERTO CON SEÑAL
+Guns N' Roses,band,Guns N' Roses,5,14,5,1,35201,16884,0.4264,6.1341,0,56100,2025-01-30,2026-06-15,presentación/canción:3; instrumento/técnica:3; historia/legado:3,SUBCUBIERTO CON SEÑAL
+Kurt Cobain,artist,Nirvana,5,14,5,0,2495,0,0.436,7.2674,0,9078,2026-02-20,2026-02-20,noticia/actualidad:3; instrumento/técnica:3; presentación/canción:2,SUBCUBIERTO CON SEÑAL
+Stone Temple Pilots,band,Weiland,5,14,5,0,23536,0,0.4612,4.8394,1,166904,2025-01-17,2026-04-25,presentación/canción:3; historia/legado:2; noticia/actualidad:2,SUBCUBIERTO CON SEÑAL
+Depeche Mode,band,Depeche Mode,5,9,5,1,8690,4406,0.6514,5.7113,1,106087,2025-04-11,2026-05-24,presentación/canción:3; historia/legado:3; muerte/adversidad:2,SUBCUBIERTO CON SEÑAL
+Jimmy Page,artist,Led Zeppelin,5,8,5,0,20362,0,0.2406,3.3862,1,837762,2025-01-25,2026-01-12,instrumento/técnica:3; presentación/canción:1; noticia/actualidad:1,SUBCUBIERTO CON SEÑAL
+Billy Corgan,artist,Smashing Pumpkins,5,6,5,1,19295,23867,0.1192,2.428,0,36120,2025-03-30,2026-05-05,entrevista/confesión:2; historia/legado:2; instrumento/técnica:2,SUBCUBIERTO CON SEÑAL
+Collective Soul,band,Collective Soul,5,5,5,0,14361,0,0.5176,3.6749,0,33114,2025-01-29,2026-02-20,instrumento/técnica:5; presentación/canción:4; noticia/actualidad:1,SUBCUBIERTO CON SEÑAL
+Green Day,band,Green Day,5,5,5,0,3204,0,0.0624,2.3115,0,8202,2026-02-08,2026-02-09,presentación/canción:3; noticia/actualidad:2; historia/legado:2,COBERTURA MEDIA / INCONCLUSA
+Kings of Leon,band,Kings of Leon,5,5,5,0,2519,0,0.1658,3.0479,0,8104,2024-05-13,2025-09-01,otro:2; instrumento/técnica:1; presentación/canción:1,COBERTURA MEDIA / INCONCLUSA
+Soundgarden,band,Cornell,4,17,4,1,7986,7524,0.2947,5.8949,0,67933,2026-01-10,2026-07-23,historia/legado:4; presentación/canción:2; familia/relación:2,SUBCUBIERTO CON SEÑAL
+Metallica,band,Metallica,4,9,4,1,1681,1150,0.2662,4.3793,0,2895,2025-01-24,2026-05-10,otro:2; instrumento/técnica:2; entrevista/confesión:1,COBERTURA MEDIA / INCONCLUSA
+Nine Inch Nails,band,Nine Inch Nails,4,9,4,2,1584,2938,0.3778,4.1905,0,4274,2026-05-29,2026-05-29,otro:2; presentación/canción:2; historia/legado:1,COBERTURA MEDIA / INCONCLUSA
+The Beatles,band,Beatles,4,9,4,0,12440,0,0.51,3.2468,0,78940,2025-11-25,2025-11-25,historia/legado:3; instrumento/técnica:2; entrevista/confesión:1,SUBCUBIERTO CON SEÑAL
+The Cure,band,The Cure,4,9,3,0,10323,0,0.4696,5.3482,0,58398,2025-02-02,2025-12-27,otro:2; conflicto/negocio:1; historia/legado:1,SUBCUBIERTO CON SEÑAL
+Velvet Revolver,band,Weiland,4,9,4,0,4976,0,0.1211,3.1391,1,254363,2025-10-18,2025-10-18,otro:3; entrevista/confesión:1; muerte/adversidad:1,SUBCUBIERTO CON SEÑAL
+Def Leppard,band,Def Leppard,4,8,4,1,19294,35999,0.3853,5.9048,1,166246,2026-02-16,2026-06-03,historia/legado:2; noticia/actualidad:2; instrumento/técnica:2,SUBCUBIERTO CON SEÑAL
+Linkin Park,band,Linkin Park,4,8,4,3,18176,30926,0.3228,6.3261,0,47489,2026-07-10,2026-07-10,noticia/actualidad:3; historia/legado:2; familia/relación:1,SUBCUBIERTO CON SEÑAL
+Radiohead,band,Radiohead,4,8,4,0,1922,0,0.261,3.7115,0,3291,2025-01-12,2026-04-23,instrumento/técnica:2; historia/legado:2; noticia/actualidad:1,COBERTURA MEDIA / INCONCLUSA
+Matt Cameron,artist,Seattle,4,7,4,0,24188,0,0.1186,2.7915,0,40093,2026-02-17,2026-02-17,otro:3; noticia/actualidad:1,SUBCUBIERTO CON SEÑAL
+Ozzy Osbourne,artist,Black Sabbath/Ozzy,4,5,3,1,2718,1938,0.0969,5.6565,0,28495,2025-02-02,2026-06-15,historia/legado:2; presentación/canción:1; familia/relación:1,COBERTURA MEDIA / INCONCLUSA
+Phil Collins,artist,Phil Collins,4,5,4,0,7767,0,0.2057,3.5125,1,387093,2025-02-01,2026-02-03,presentación/canción:3; historia/legado:3; muerte/adversidad:2,SUBCUBIERTO CON SEÑAL
+Christopher Cross,artist,Christopher Cross,4,4,4,0,1302,0,0.1157,4.1466,0,49743,2025-04-08,2026-02-01,historia/legado:2; instrumento/técnica:2; presentación/canción:1,COBERTURA MEDIA / INCONCLUSA
+Eric Clapton,artist,Eric Clapton,4,4,4,0,3417,0,0.1978,3.4962,0,14914,2025-02-09,2026-02-12,historia/legado:4; presentación/canción:1; muerte/adversidad:1,COBERTURA MEDIA / INCONCLUSA
+Mad Season,band,Alice in Chains,4,4,4,4,9160,9160,0.414,7.2673,0,10571,2026-06-28,2026-07-02,entrevista/confesión:2; instrumento/técnica:2; noticia/actualidad:1,"PROFUNDO, AÚN PRODUCTIVO"
+Nirvana,band,Nirvana,3,13,3,0,40066,0,0.4617,7.5251,1,1054862,2025-02-01,2025-11-30,presentación/canción:2; historia/legado:2; entrevista/confesión:1,SUBCUBIERTO CON SEÑAL
+Soda Stereo,band,Cerati/Soda,3,11,3,0,7255,0,0.1654,2.938,1,649776,2026-03-22,2026-03-22,instrumento/técnica:2; muerte/adversidad:1; noticia/actualidad:1,SUBCUBIERTO CON SEÑAL
+Alice in Chains,band,Alice in Chains,3,9,3,0,6025,0,0.1337,3.7543,0,38901,2025-02-02,2025-05-02,entrevista/confesión:2; instrumento/técnica:2; presentación/canción:2,COBERTURA MEDIA / INCONCLUSA
+Steven Tyler,artist,Aerosmith,3,9,3,0,11291,0,0.2607,4.4297,0,63678,2025-05-01,2025-10-24,historia/legado:3; instrumento/técnica:2; presentación/canción:2,SUBCUBIERTO CON SEÑAL
+Trent Reznor,artist,Nine Inch Nails,3,7,2,1,188004,1068,0.6659,6.5759,2,201205,2025-10-05,2026-05-17,instrumento/técnica:3; historia/legado:2; conflicto/negocio:1,SUBCUBIERTO CON SEÑAL
+Jerry Cantrell,artist,Alice in Chains,3,6,3,0,3994,0,0.2828,4.0528,0,42256,2025-12-24,2025-12-24,instrumento/técnica:2; conflicto/negocio:1; familia/relación:1,COBERTURA MEDIA / INCONCLUSA
+Prince,artist,Prince,3,6,3,1,4045,4045,0.1978,3.6836,0,4608,2025-12-06,2026-05-28,historia/legado:2; conflicto/negocio:1; instrumento/técnica:1,COBERTURA MEDIA / INCONCLUSA
+Roger Waters,artist,Pink Floyd,3,6,3,0,69523,0,0.4445,6.2008,1,263597,2025-01-18,2025-01-31,historia/legado:3; instrumento/técnica:3; entrevista/confesión:2,SUBCUBIERTO CON SEÑAL
+AC/DC,band,AC/DC,3,5,3,0,5063,0,0.1943,6.2189,0,16473,2026-04-06,2026-04-06,presentación/canción:1; entrevista/confesión:1; instrumento/técnica:1,COBERTURA MEDIA / INCONCLUSA
+INXS,band,INXS,3,5,3,0,5134,0,0.2857,2.9607,0,8647,2025-03-17,2025-03-17,otro:2; muerte/adversidad:1; historia/legado:1,COBERTURA MEDIA / INCONCLUSA
+The Black Crowes,band,Black Crowes,3,5,3,0,2215,0,0.0701,1.8059,0,5710,2025-02-04,2026-01-14,presentación/canción:2; historia/legado:2; muerte/adversidad:1,COBERTURA MEDIA / INCONCLUSA
+Thom Yorke,artist,Radiohead,3,5,3,1,44159,507208,0.3804,7.8534,1,507208,2026-05-14,2026-05-14,historia/legado:1; entrevista/confesión:1; conflicto/negocio:1,SUBCUBIERTO CON SEÑAL
+John Frusciante,artist,RHCP,3,4,3,3,31115,31115,0.1966,4.8518,1,282264,2026-07-03,2026-07-05,entrevista/confesión:3; instrumento/técnica:2; historia/legado:1,SUBCUBIERTO CON SEÑAL
+Chad Smith,artist,RHCP,3,3,3,0,15690,0,0.6692,4.4997,1,4189256,2025-01-24,2025-02-07,instrumento/técnica:3; entrevista/confesión:1; historia/legado:1,SUBCUBIERTO CON SEÑAL
+Iron Maiden,band,Iron Maiden,3,3,3,0,2248,0,0.2896,3.861,0,16276,2026-04-19,2026-04-19,historia/legado:3; noticia/actualidad:3; conflicto/negocio:1,COBERTURA MEDIA / INCONCLUSA
+Noel Gallagher,artist,Oasis,3,3,3,0,32328,0,0.1802,2.5427,0,75052,2025-03-19,2025-04-28,historia/legado:2; entrevista/confesión:2; conflicto/negocio:2,SUBCUBIERTO CON SEÑAL
+Rod Stewart,artist,Rod Stewart,3,3,3,0,36512,0,0.3125,2.5498,0,45042,2025-04-13,2025-04-29,entrevista/confesión:3; historia/legado:3; instrumento/técnica:3,SUBCUBIERTO CON SEÑAL
+Stevie Nicks,artist,Fleetwood Mac,3,3,3,0,12030,0,0.1247,2.3441,1,174390,2025-02-11,2025-02-13,entrevista/confesión:2; historia/legado:2; presentación/canción:1,SUBCUBIERTO CON SEÑAL
+The Cars,band,The Cars,3,3,3,0,12320,0,0.5357,9.7902,1,180028,2026-01-19,2026-01-23,familia/relación:2; muerte/adversidad:1; presentación/canción:1,SUBCUBIERTO CON SEÑAL
+U2,band,U2,3,3,2,0,1457,0,0.3247,4.6671,0,2025,2025-07-03,2025-08-12,instrumento/técnica:2; presentación/canción:1; otro:1,COBERTURA MEDIA / INCONCLUSA
+Aerosmith,band,Aerosmith,2,12,2,0,2610,0,0.2401,4.411,0,3868,2026-01-18,2026-01-18,historia/legado:2,COBERTURA MEDIA / INCONCLUSA
+Red Hot Chili Peppers,band,RHCP,2,8,2,1,1262,2133,0.0703,6.0042,0,2133,2026-05-26,2026-05-26,otro:2,CASI NO PROBADO / SEÑAL DÉBIL
+Foo Fighters,band,Grohl/Foo Fighters,2,7,2,1,1590,2124,0.307,4.4174,0,2124,2026-05-18,2026-05-18,muerte/adversidad:1; conflicto/negocio:1; noticia/actualidad:1,CASI NO PROBADO / SEÑAL DÉBIL
+Layne Staley,artist,Alice in Chains,2,7,2,1,470478,935409,0.2199,5.7836,1,935409,2026-05-22,2026-05-22,entrevista/confesión:2; muerte/adversidad:1; historia/legado:1,SUBCUBIERTO CON SEÑAL
+Paul McCartney,artist,Beatles,2,7,2,0,7606,0,0.6347,5.185,0,12120,2025-10-13,2025-10-13,entrevista/confesión:2; historia/legado:2; instrumento/técnica:2,SUBCUBIERTO CON SEÑAL
+Van Halen,band,Van Halen,2,7,2,1,3528,1613,0.3249,4.3653,0,5442,2026-01-25,2026-05-06,conflicto/negocio:1; instrumento/técnica:1; muerte/adversidad:1,COBERTURA MEDIA / INCONCLUSA
+Bon Jovi,band,Bon Jovi,2,6,2,0,14998,0,0.0993,2.5111,0,26270,2025-04-25,2025-04-25,historia/legado:1; noticia/actualidad:1; instrumento/técnica:1,SUBCUBIERTO CON SEÑAL
+Robert Plant,artist,Led Zeppelin,2,6,2,0,114204,0,0.3112,4.4367,2,134108,2025-01-18,2025-03-25,entrevista/confesión:2; presentación/canción:1; historia/legado:1,SUBCUBIERTO CON SEÑAL
+Dave Gahan,artist,Depeche Mode,2,5,2,0,63730,0,0.3857,4.6893,1,118147,2025-01-18,2025-02-07,entrevista/confesión:1; noticia/actualidad:1; historia/legado:1,SUBCUBIERTO CON SEÑAL
+Robert Smith,artist,The Cure,2,5,2,0,56668,0,0.4283,6.1737,1,87413,2025-02-03,2026-01-18,conflicto/negocio:1; historia/legado:1; otro:1,SUBCUBIERTO CON SEÑAL
+Sammy Hagar,artist,Van Halen,2,5,2,0,86126,0,0.2787,3.2339,1,163748,2025-01-21,2025-01-21,historia/legado:2,SUBCUBIERTO CON SEÑAL
+Greta Van Fleet,band,Greta Van Fleet,2,4,2,0,2206,0,0.2219,2.5549,0,2846,2024-03-17,2025-01-20,entrevista/confesión:1; historia/legado:1; presentación/canción:1,COBERTURA MEDIA / INCONCLUSA
+Joe Perry,artist,Aerosmith,2,4,2,0,6712,0,0.1187,3.326,0,12330,2025-01-22,2025-10-20,instrumento/técnica:1; otro:1,SUBCUBIERTO CON SEÑAL
+Jon Bon Jovi,artist,Bon Jovi,2,4,2,0,15976,0,0.3912,6.0037,0,25562,2025-10-30,2025-10-30,presentación/canción:1; historia/legado:1; noticia/actualidad:1,SUBCUBIERTO CON SEÑAL
+Michael Jackson,artist,Michael Jackson,2,4,2,0,14754,0,0.2508,2.4632,0,16708,2025-03-18,2025-03-18,entrevista/confesión:1; muerte/adversidad:1; historia/legado:1,SUBCUBIERTO CON SEÑAL
+Mike McCready,artist,Pearl Jam,2,4,2,0,19978,0,0.0616,1.543,0,34982,2025-02-09,2025-02-16,instrumento/técnica:2; entrevista/confesión:1; muerte/adversidad:1,SUBCUBIERTO CON SEÑAL
+Queen,band,Queen,2,4,2,0,1620,0,0.1556,5.3673,0,2570,2025-11-17,2026-03-29,muerte/adversidad:2; noticia/actualidad:2; conflicto/negocio:1,CASI NO PROBADO / SEÑAL DÉBIL
+Skid Row,band,Skid Row,2,4,2,0,2824,0,0.3929,4.6805,0,3731,2026-04-22,2026-04-22,otro:1; presentación/canción:1; historia/legado:1,COBERTURA MEDIA / INCONCLUSA
+The Rolling Stones,band,Rolling Stones,2,4,2,0,24148,0,0.5904,5.124,0,46849,2025-04-19,2026-04-13,historia/legado:2; noticia/actualidad:1; entrevista/confesión:1,SUBCUBIERTO CON SEÑAL
+Brian May,artist,Queen,2,3,2,0,36712,0,0.2949,4.1198,0,38338,2025-03-14,2025-03-14,entrevista/confesión:2; muerte/adversidad:1,SUBCUBIERTO CON SEÑAL
+Counting Crows,band,Counting Crows,2,3,2,0,8824,0,0.3034,2.2706,0,9277,2024-12-18,2024-12-18,presentación/canción:2,SUBCUBIERTO CON SEÑAL
+Elvis Presley,artist,Elvis Presley,2,3,2,0,5584,0,0.111,4.2657,0,10806,2025-04-02,2025-04-02,entrevista/confesión:1; conflicto/negocio:1; familia/relación:1,COBERTURA MEDIA / INCONCLUSA
+Foreigner,band,Foreigner,2,3,2,0,2404,0,0.2358,3.3562,0,3855,2025-04-10,2026-02-04,presentación/canción:2; historia/legado:2; instrumento/técnica:2,COBERTURA MEDIA / INCONCLUSA
+Jimi Hendrix,artist,Jimi Hendrix,2,3,2,0,5432,0,0.1485,2.2473,0,7690,2025-03-20,2025-04-05,historia/legado:2; instrumento/técnica:1; entrevista/confesión:1,COBERTURA MEDIA / INCONCLUSA
+Kid Rock,artist,Kid Rock,2,3,2,0,75972,0,0.2587,4.1205,1,123885,2025-03-24,2025-11-30,presentación/canción:1; historia/legado:1; entrevista/confesión:1,SUBCUBIERTO CON SEÑAL
+Perry Farrell,artist,Jane's Addiction,2,3,2,0,5032,0,0.027,1.9721,0,7418,2025-01-29,2025-01-29,otro:1; entrevista/confesión:1; muerte/adversidad:1,COBERTURA MEDIA / INCONCLUSA
+Björk,artist,Björk,2,2,2,0,4228,0,0.0908,1.6942,0,6009,2025-04-01,2025-04-03,presentación/canción:2; entrevista/confesión:1; conflicto/negocio:1,COBERTURA MEDIA / INCONCLUSA
+Bob Dylan,artist,Bob Dylan,2,2,2,0,2222,0,0.0254,3.3671,0,3940,2025-03-29,2025-03-29,historia/legado:2; entrevista/confesión:1; conflicto/negocio:1,COBERTURA MEDIA / INCONCLUSA
+Bret Michaels,artist,Poison,2,2,2,0,247730,0,0.3999,4.243,2,316703,2025-02-06,2025-02-06,instrumento/técnica:1; entrevista/confesión:1; conflicto/negocio:1,SUBCUBIERTO CON SEÑAL
+Brian Wilson,artist,Beach Boys,2,2,2,0,6306,0,0.1241,2.0018,0,9738,2025-03-23,2025-03-23,presentación/canción:1; familia/relación:1; entrevista/confesión:1,COBERTURA MEDIA / INCONCLUSA
+Candlebox,band,Candlebox,2,2,2,0,2036,0,0.0169,3.2808,0,2960,2025-06-08,2025-06-08,entrevista/confesión:1; historia/legado:1; noticia/actualidad:1,COBERTURA MEDIA / INCONCLUSA
+Carlos Santana,artist,Santana,2,2,2,0,44237,0,0.5236,2.7485,0,79121,2025-10-03,2025-10-03,historia/legado:1; instrumento/técnica:1,SUBCUBIERTO CON SEÑAL
+Deep Purple,band,Deep Purple,2,2,2,0,2770,0,0.243,3.9151,0,4577,2025-01-20,2025-12-14,presentación/canción:2; historia/legado:2; instrumento/técnica:2,COBERTURA MEDIA / INCONCLUSA
+Enrique Bunbury,artist,Héroes/Bunbury,2,2,1,0,778,0,0.0,4.107,0,1222,2026-02-13,2026-02-13,historia/legado:1; noticia/actualidad:1; otro:1,CASI NO PROBADO / SEÑAL DÉBIL
+George Michael,artist,George Michael,2,2,2,0,2838,0,0.2762,4.2849,0,4526,2025-01-06,2025-12-12,instrumento/técnica:1; otro:1,COBERTURA MEDIA / INCONCLUSA
+Jack White,artist,Jack White,2,2,2,0,22390,0,0.1921,3.5339,0,39104,2025-01-24,2025-11-01,instrumento/técnica:2; entrevista/confesión:1; presentación/canción:1,SUBCUBIERTO CON SEÑAL
+Jarabe de Palo,band,Jarabe de Palo,2,2,2,0,9122,0,0.074,1.6356,0,15537,2025-04-12,2025-04-12,entrevista/confesión:1; muerte/adversidad:1; historia/legado:1,SUBCUBIERTO CON SEÑAL
+Jeff Beck,artist,Jeff Beck,2,2,2,0,9756,0,0.1603,2.2057,0,13415,2025-04-06,2025-04-06,historia/legado:1; instrumento/técnica:1; entrevista/confesión:1,SUBCUBIERTO CON SEÑAL
+Lenny Kravitz,artist,Lenny Kravitz,2,2,2,0,2030,0,0.1493,3.0391,0,3054,2025-06-10,2025-06-10,presentación/canción:2; instrumento/técnica:2; familia/relación:1,COBERTURA MEDIA / INCONCLUSA
+Marilyn Manson,artist,Marilyn Manson,2,2,2,0,243177,0,0.0987,2.7798,1,485004,2025-10-16,2025-10-20,otro:1; entrevista/confesión:1,SUBCUBIERTO CON SEÑAL
+Massive Attack,band,Massive Attack,2,2,2,0,1056,0,0.0801,4.6813,0,1248,2025-01-07,2026-04-23,conflicto/negocio:1; noticia/actualidad:1; entrevista/confesión:1,CASI NO PROBADO / SEÑAL DÉBIL
+Mazzy Star,band,Mazzy Star,2,2,2,0,874,0,0.182,4.0753,0,1374,2025-01-14,2025-01-14,otro:2,CASI NO PROBADO / SEÑAL DÉBIL
+Mr. Mister,band,Mr. Mister,2,2,1,0,42830,0,1.2538,11.0029,1,85299,2026-01-10,2026-01-10,presentación/canción:1; noticia/actualidad:1; instrumento/técnica:1,SUBCUBIERTO CON SEÑAL
+Night Traveler,band,Night Traveler,2,2,1,0,842,0,0.3185,3.3831,0,1035,2025-01-06,2025-01-06,presentación/canción:1; instrumento/técnica:1; otro:1,CASI NO PROBADO / SEÑAL DÉBIL
+Paul Stanley,artist,Kiss,2,2,2,0,128452,0,0.1904,2.9608,1,236430,2025-02-05,2025-04-14,instrumento/técnica:2; historia/legado:1; entrevista/confesión:1,SUBCUBIERTO CON SEÑAL
+Peter Frampton,artist,Peter Frampton,2,2,2,0,18055,0,0.5158,3.1172,0,29459,2025-02-08,2025-02-08,presentación/canción:1; familia/relación:1; instrumento/técnica:1,SUBCUBIERTO CON SEÑAL
+Sheryl Crow,artist,Sheryl Crow,2,2,2,0,5410,0,0.2027,6.2606,0,10439,2025-04-03,2025-04-03,entrevista/confesión:1; presentación/canción:1; conflicto/negocio:1,COBERTURA MEDIA / INCONCLUSA
+Snow Patrol,band,Snow Patrol,2,2,2,0,4772,0,0.5661,3.0069,0,5633,2024-12-19,2025-03-30,otro:1; entrevista/confesión:1; presentación/canción:1,SUBCUBIERTO CON SEÑAL
+Sting,artist,Sting,2,2,2,0,43525,0,0.6769,5.2114,1,85225,2025-02-05,2025-12-24,entrevista/confesión:1; presentación/canción:1; familia/relación:1,SUBCUBIERTO CON SEÑAL
+When in Rome,band,When in Rome,2,2,2,0,679,0,0.0,3.5427,0,690,2024-12-31,2024-12-31,otro:1; noticia/actualidad:1,CASI NO PROBADO / SEÑAL DÉBIL
+John Lennon,artist,Beatles,1,7,1,0,54417,0,0.4557,3.7893,0,54417,2025-08-10,2025-08-10,historia/legado:1,COBERTURA MEDIA / INCONCLUSA
+Axl Rose,artist,Guns N' Roses,1,6,1,0,326780,0,0.0744,4.6655,1,326780,2025-06-11,2025-06-11,historia/legado:1; instrumento/técnica:1,COBERTURA MEDIA / INCONCLUSA
+Kiss,band,Kiss,1,5,1,0,32717,0,0.9475,5.5965,0,32717,2025-04-20,2025-04-20,entrevista/confesión:1; presentación/canción:1; instrumento/técnica:1,COBERTURA MEDIA / INCONCLUSA
+Syd Barrett,artist,Pink Floyd,1,5,1,0,101117,0,0.3254,4.4849,1,101117,2025-04-11,2025-04-11,presentación/canción:1; historia/legado:1; instrumento/técnica:1,COBERTURA MEDIA / INCONCLUSA
+The Smashing Pumpkins,band,Smashing Pumpkins,1,5,1,0,344,0,0.2907,9.8837,0,344,2024-06-06,2024-06-06,otro:1,CASI NO PROBADO / SEÑAL DÉBIL
+Brian Johnson,artist,AC/DC,1,4,1,0,303357,0,0.1994,3.4072,1,303357,2025-01-31,2025-01-31,entrevista/confesión:1; muerte/adversidad:1; instrumento/técnica:1,COBERTURA MEDIA / INCONCLUSA
+David Bowie,artist,David Bowie,1,4,1,0,9012,0,0.2441,3.7173,0,9012,2025-01-19,2025-01-19,entrevista/confesión:1; historia/legado:1,COBERTURA MEDIA / INCONCLUSA
+Jane's Addiction,band,Jane's Addiction,1,4,1,0,8304,0,0.0482,1.3006,0,8304,2025-01-30,2025-01-30,muerte/adversidad:1; historia/legado:1,COBERTURA MEDIA / INCONCLUSA
+Martin Gore,artist,Depeche Mode,1,4,1,0,89213,0,0.7746,8.232,1,89213,2025-02-08,2025-02-08,entrevista/confesión:1; instrumento/técnica:1,COBERTURA MEDIA / INCONCLUSA
+Mick Jagger,artist,Rolling Stones,1,4,1,0,4128,0,0.0727,2.2771,0,4128,2025-05-01,2025-05-01,presentación/canción:1,COBERTURA MEDIA / INCONCLUSA
+Adam Duritz,artist,Counting Crows,1,3,1,0,45738,0,0.2624,3.4457,0,45738,2025-03-29,2025-03-29,presentación/canción:1; historia/legado:1; instrumento/técnica:1,COBERTURA MEDIA / INCONCLUSA
+Brian Molko,artist,Placebo,1,3,1,0,43486,0,0.5312,6.5791,0,43486,2025-04-02,2025-04-02,entrevista/confesión:1; conflicto/negocio:1,COBERTURA MEDIA / INCONCLUSA
+Chickenfoot,band,Chickenfoot,1,3,0,0,849,0,0.2356,1.4134,0,849,2023-11-18,2023-11-18,otro:1,CASI NO PROBADO / SEÑAL DÉBIL
+Journey,band,Journey,1,3,1,0,728154,0,0.5044,4.7285,1,728154,2025-02-01,2025-02-01,entrevista/confesión:1; instrumento/técnica:1,COBERTURA MEDIA / INCONCLUSA
+Keith Richards,artist,Rolling Stones,1,3,1,0,134662,0,0.3787,3.5942,1,134662,2025-04-10,2025-04-10,entrevista/confesión:1; familia/relación:1; historia/legado:1,COBERTURA MEDIA / INCONCLUSA
+Mike Shinoda,artist,Linkin Park,1,3,1,1,19882,19882,0.0805,5.5326,0,19882,2026-07-10,2026-07-10,entrevista/confesión:1,COBERTURA MEDIA / INCONCLUSA
+Placebo,band,Placebo,1,3,0,0,1196,0,0.0,2.5084,0,1196,2024-12-21,2024-12-21,presentación/canción:1,CASI NO PROBADO / SEÑAL DÉBIL
+Ringo Starr,artist,Beatles,1,3,0,0,8922,0,0.0897,3.284,0,8922,2025-03-25,2025-03-25,entrevista/confesión:1; historia/legado:1,COBERTURA MEDIA / INCONCLUSA
+Blind Melon,band,Blind Melon,1,2,1,0,1373,0,0.0728,2.622,0,1373,2025-01-10,2025-01-10,otro:1,CASI NO PROBADO / SEÑAL DÉBIL
+Boy George,artist,Culture Club,1,2,1,0,1787,0,0.056,3.8053,0,1787,2025-04-28,2025-04-28,presentación/canción:1; historia/legado:1; instrumento/técnica:1,CASI NO PROBADO / SEÑAL DÉBIL
+Cutting Crew,band,Cutting Crew,1,2,1,0,1565,0,0.9585,5.1757,0,1565,2026-03-13,2026-03-13,muerte/adversidad:1; presentación/canción:1; familia/relación:1,CASI NO PROBADO / SEÑAL DÉBIL
+Elton John,artist,Elton John,1,2,1,0,1152,0,0.0,3.4722,0,1152,2025-10-20,2025-10-20,otro:1,CASI NO PROBADO / SEÑAL DÉBIL
+Garbage,band,Garbage,1,2,1,0,1485,0,0.3367,5.5892,0,1485,2026-04-04,2026-04-04,presentación/canción:1; noticia/actualidad:1,CASI NO PROBADO / SEÑAL DÉBIL
+Gene Simmons,artist,Kiss,1,2,1,0,16473,0,0.1214,2.6468,0,16473,2025-02-13,2025-02-13,entrevista/confesión:1,COBERTURA MEDIA / INCONCLUSA
+James Hetfield,artist,Metallica,1,2,1,0,350289,0,0.4964,6.3399,1,350289,2025-10-25,2025-10-25,instrumento/técnica:1,COBERTURA MEDIA / INCONCLUSA
+Jim Morrison,artist,The Doors,1,2,1,0,164934,0,0.4863,5.6047,1,164934,2025-03-22,2025-03-22,historia/legado:1; noticia/actualidad:1,COBERTURA MEDIA / INCONCLUSA
+Joe Satriani,artist,Joe Satriani,1,2,1,0,24634,0,0.0771,1.1772,0,24634,2025-03-21,2025-03-21,historia/legado:1; instrumento/técnica:1,COBERTURA MEDIA / INCONCLUSA
+Liam Gallagher,artist,Oasis,1,2,1,0,36364,0,0.165,2.64,0,36364,2025-03-17,2025-03-17,entrevista/confesión:1; conflicto/negocio:1; historia/legado:1,COBERTURA MEDIA / INCONCLUSA
+Maroon 5,band,Maroon 5,1,2,1,0,11785,0,0.3224,3.4026,0,11785,2025-08-12,2025-08-12,presentación/canción:1; noticia/actualidad:1; instrumento/técnica:1,COBERTURA MEDIA / INCONCLUSA
+Michael Hutchence,artist,INXS,1,2,1,0,53258,0,0.338,6.9886,0,53258,2025-12-05,2025-12-05,instrumento/técnica:1,COBERTURA MEDIA / INCONCLUSA
+REO Speedwagon,band,REO Speedwagon,1,2,1,0,983,0,0.8138,6.7141,0,983,2025-06-01,2025-06-01,muerte/adversidad:1; presentación/canción:1; familia/relación:1,CASI NO PROBADO / SEÑAL DÉBIL
+Sebastian Bach,artist,Skid Row,1,2,1,0,179935,0,0.3924,7.2687,1,179935,2025-05-10,2025-05-10,historia/legado:1; instrumento/técnica:1,COBERTURA MEDIA / INCONCLUSA
+Shirley Manson,artist,Garbage,1,2,1,0,100185,0,0.2865,6.6038,1,100185,2025-01-20,2025-01-20,entrevista/confesión:1; historia/legado:1; instrumento/técnica:1,COBERTURA MEDIA / INCONCLUSA
+Steve Perry,artist,Journey,1,2,1,0,48006,0,0.3,3.66,0,48006,2025-04-05,2025-04-05,presentación/canción:1; historia/legado:1; instrumento/técnica:1,COBERTURA MEDIA / INCONCLUSA
+Steve Vai,artist,Steve Vai,1,2,1,0,3477,0,0.2013,1.8407,0,3477,2025-01-22,2025-01-22,historia/legado:1; instrumento/técnica:1,COBERTURA MEDIA / INCONCLUSA
+Taylor Hawkins,artist,Grohl/Foo Fighters,1,2,1,0,590,0,0.0,6.2712,0,590,2024-06-16,2024-06-16,muerte/adversidad:1; familia/relación:1; instrumento/técnica:1,CASI NO PROBADO / SEÑAL DÉBIL
+The Doors,band,The Doors,1,2,1,0,5699,0,0.7019,5.0009,0,5699,2025-01-08,2025-01-08,presentación/canción:1; historia/legado:1,COBERTURA MEDIA / INCONCLUSA
+The Eagles,band,Eagles,1,2,1,0,78067,0,0.3305,3.6046,0,78067,2025-04-04,2025-04-04,presentación/canción:1; historia/legado:1; instrumento/técnica:1,COBERTURA MEDIA / INCONCLUSA
+The Warning,band,The Warning,1,2,1,0,2512,0,0.0398,3.9411,0,2512,2025-10-19,2025-10-19,otro:1,CASI NO PROBADO / SEÑAL DÉBIL
+Thirty Seconds to Mars,band,Thirty Seconds to Mars,1,2,1,0,2764,0,0.2533,3.0391,0,2764,2024-03-18,2024-03-18,presentación/canción:1,COBERTURA MEDIA / INCONCLUSA
+Tool,band,Tool,1,2,1,0,1844,0,1.5727,4.9892,0,1844,2026-02-22,2026-02-22,presentación/canción:1,CASI NO PROBADO / SEÑAL DÉBIL
+Alanis Morissette,artist,Alanis Morissette,1,1,1,0,1825,0,0.0548,5.0959,0,1825,2025-08-03,2025-08-03,muerte/adversidad:1; presentación/canción:1; instrumento/técnica:1,CASI NO PROBADO / SEÑAL DÉBIL
+Alice Cooper,artist,Alice Cooper,1,1,1,0,124766,0,0.4176,4.163,1,124766,2025-02-09,2025-02-09,historia/legado:1,COBERTURA MEDIA / INCONCLUSA
+Annie Lennox,artist,Eurythmics,1,1,1,0,98698,0,0.4803,4.8623,1,98698,2025-03-23,2025-03-23,entrevista/confesión:1; presentación/canción:1; instrumento/técnica:1,COBERTURA MEDIA / INCONCLUSA
+Billy Gibbons,artist,ZZ Top,1,1,1,0,79764,0,0.2081,2.5688,0,79764,2025-02-20,2025-02-20,historia/legado:1,COBERTURA MEDIA / INCONCLUSA
+Blur,band,Blur,1,1,1,0,460,0,0.2174,6.7391,0,460,2024-05-07,2024-05-07,otro:1,CASI NO PROBADO / SEÑAL DÉBIL
+Chris de Burgh,artist,Chris de Burgh,1,1,1,0,1759,0,0.0569,2.672,0,1759,2025-06-27,2025-06-27,presentación/canción:1; familia/relación:1; historia/legado:1,CASI NO PROBADO / SEÑAL DÉBIL
+Cigarettes After Sex,band,Cigarettes After Sex,1,1,1,0,1150,0,0.6087,3.913,0,1150,2025-09-06,2025-09-06,otro:1,CASI NO PROBADO / SEÑAL DÉBIL
+Creed,band,Creed,1,1,1,0,1613,0,0.434,4.5877,0,1613,2025-07-26,2025-07-26,otro:1,CASI NO PROBADO / SEÑAL DÉBIL
+Crowded House,band,Crowded House,1,1,1,0,57517,0,1.4378,5.0698,0,57517,2025-01-15,2025-01-15,presentación/canción:1; historia/legado:1,COBERTURA MEDIA / INCONCLUSA
+Daniel Caesar,artist,Daniel Caesar,1,1,0,0,135,0,0.0,8.1481,0,135,2024-02-13,2024-02-13,familia/relación:1,CASI NO PROBADO / SEÑAL DÉBIL
+Dave Matthews,artist,Dave Matthews Band,1,1,1,0,3805,0,0.1051,1.8134,0,3805,2025-02-06,2025-02-06,entrevista/confesión:1; presentación/canción:1,COBERTURA MEDIA / INCONCLUSA
+Dee Snider,artist,Twisted Sister,1,1,1,0,3147,0,0.0636,1.9701,0,3147,2025-12-24,2025-12-24,familia/relación:1; instrumento/técnica:1,COBERTURA MEDIA / INCONCLUSA
+Delta Spirit,band,Delta Spirit,1,1,1,0,2222,0,0.225,2.1602,0,2222,2024-12-20,2024-12-20,presentación/canción:1; instrumento/técnica:1,CASI NO PROBADO / SEÑAL DÉBIL
+Dorothy,band,Dorothy,1,1,1,0,11910,0,0.084,1.2091,0,11910,2025-02-08,2025-02-08,entrevista/confesión:1; conflicto/negocio:1; instrumento/técnica:1,COBERTURA MEDIA / INCONCLUSA
+Duncan Sheik,artist,Duncan Sheik,1,1,1,0,850,0,0.1176,2.8235,0,850,2024-12-17,2024-12-17,presentación/canción:1; instrumento/técnica:1,CASI NO PROBADO / SEÑAL DÉBIL
+EMF,band,EMF,1,1,1,0,278,0,0.0,2.518,0,278,2024-06-06,2024-06-06,otro:1,CASI NO PROBADO / SEÑAL DÉBIL
+Faith No More,band,Faith No More,1,1,1,0,2585,0,0.0387,2.5532,0,2585,2025-01-23,2025-01-23,entrevista/confesión:1; historia/legado:1,COBERTURA MEDIA / INCONCLUSA
+Fiona Apple,artist,Fiona Apple,1,1,1,0,2386,0,0.2515,3.4367,0,2386,2025-01-18,2025-01-18,presentación/canción:1; historia/legado:1; instrumento/técnica:1,CASI NO PROBADO / SEÑAL DÉBIL
+Fito Páez,artist,Fito Páez,1,1,1,0,69868,0,0.5267,10.3051,0,69868,2025-04-12,2025-04-12,familia/relación:1; historia/legado:1,COBERTURA MEDIA / INCONCLUSA
+Glenn Frey,artist,Eagles,1,1,0,0,375,0,0.0,3.7333,0,375,2024-04-01,2024-04-01,otro:1,CASI NO PROBADO / SEÑAL DÉBIL
+GusGus,band,GusGus,1,1,0,0,1167,0,0.5998,1.5424,0,1167,2024-03-19,2024-03-19,otro:1,CASI NO PROBADO / SEÑAL DÉBIL
+HAEVN,band,HAEVN,1,1,1,0,300,0,0.0,2.3333,0,300,2024-06-06,2024-06-06,otro:1,CASI NO PROBADO / SEÑAL DÉBIL
+Hot Chip,band,Hot Chip,1,1,1,0,253,0,0.0,4.3478,0,253,2024-04-09,2024-04-09,otro:1,CASI NO PROBADO / SEÑAL DÉBIL
+James,band,James,1,1,1,0,2900,0,0.1379,2.1724,0,2900,2025-01-30,2025-01-30,noticia/actualidad:1,COBERTURA MEDIA / INCONCLUSA
+Janis Joplin,artist,Janis Joplin,1,1,1,0,17063,0,0.0762,2.1919,0,17063,2025-03-19,2025-03-19,entrevista/confesión:1,COBERTURA MEDIA / INCONCLUSA
+Jewel,artist,Jewel,1,1,1,0,42063,0,0.5943,4.586,0,42063,2025-04-25,2025-04-25,presentación/canción:1; conflicto/negocio:1; historia/legado:1,COBERTURA MEDIA / INCONCLUSA
+John Rzeznik,artist,Goo Goo Dolls,1,1,1,0,1674,0,0.1195,5.0179,0,1674,2025-12-20,2025-12-20,presentación/canción:1; historia/legado:1,CASI NO PROBADO / SEÑAL DÉBIL
+Julian Casablancas,artist,The Strokes,1,1,1,0,7630,0,0.2228,2.9096,0,7630,2025-04-01,2025-04-01,entrevista/confesión:1,COBERTURA MEDIA / INCONCLUSA
+Keane,band,Keane,1,1,1,0,503,0,0.0,11.1332,0,503,2024-05-04,2024-05-04,otro:1,CASI NO PROBADO / SEÑAL DÉBIL
+Korn,band,Korn,1,1,1,1,2455,2455,0.6517,4.1141,0,2455,2026-05-16,2026-05-16,muerte/adversidad:1; presentación/canción:1; instrumento/técnica:1,CASI NO PROBADO / SEÑAL DÉBIL
+Lana Del Rey,artist,Lana Del Rey,1,1,1,0,87875,0,0.4279,5.7707,1,87875,2024-06-11,2024-06-11,otro:1,COBERTURA MEDIA / INCONCLUSA
+Lita Ford,artist,Lita Ford,1,1,1,0,5813,0,0.1548,3.1825,0,5813,2025-03-19,2025-03-19,entrevista/confesión:1; instrumento/técnica:1,COBERTURA MEDIA / INCONCLUSA
+Live,band,Live,1,1,1,0,1431,0,0.0,2.3061,0,1431,2024-06-05,2024-06-05,otro:1,CASI NO PROBADO / SEÑAL DÉBIL
+Mark Knopfler,artist,Dire Straits,1,1,1,0,62462,0,0.2674,3.0467,0,62462,2025-02-15,2025-02-15,entrevista/confesión:1; conflicto/negocio:1; historia/legado:1,COBERTURA MEDIA / INCONCLUSA
+Maynard James Keenan,artist,Tool,1,1,1,0,3194,0,0.1879,2.3482,0,3194,2025-02-08,2025-02-08,entrevista/confesión:1; instrumento/técnica:1,COBERTURA MEDIA / INCONCLUSA
+Megadeth,band,Megadeth,1,1,1,1,1543,1543,0.1296,3.7589,0,1543,2026-05-07,2026-05-07,historia/legado:1; instrumento/técnica:1,CASI NO PROBADO / SEÑAL DÉBIL
+Mr. Big,band,Mr. Big,1,1,1,0,1268,0,0.0789,2.5237,0,1268,2025-07-19,2025-07-19,presentación/canción:1; instrumento/técnica:1,CASI NO PROBADO / SEÑAL DÉBIL
+Mudhoney,band,Mudhoney,1,1,1,0,1700,0,0.0,1.1176,0,1700,2025-01-22,2025-01-22,otro:1,CASI NO PROBADO / SEÑAL DÉBIL
+Muse,band,Muse,1,1,1,0,7931,0,0.29,3.7322,0,7931,2025-07-20,2025-07-20,noticia/actualidad:1; instrumento/técnica:1,COBERTURA MEDIA / INCONCLUSA
+Natalie Imbruglia,artist,Natalie Imbruglia,1,1,1,0,278,0,0.0,1.4388,0,278,2024-06-03,2024-06-03,otro:1,CASI NO PROBADO / SEÑAL DÉBIL
+Pat Benatar,artist,Pat Benatar,1,1,1,0,2726,0,0.0,1.8709,0,2726,2025-01-20,2025-01-20,conflicto/negocio:1; historia/legado:1,COBERTURA MEDIA / INCONCLUSA
+Pink,artist,Pink,1,1,1,0,328,0,0.0,5.7927,0,328,2024-06-08,2024-06-08,otro:1,CASI NO PROBADO / SEÑAL DÉBIL
+Portishead,band,Portishead,1,1,0,0,429,0,0.6993,5.3613,0,429,2024-03-19,2024-03-19,otro:1,CASI NO PROBADO / SEÑAL DÉBIL
+Rammstein,band,Rammstein,1,1,1,0,310,0,0.3226,5.8065,0,310,2024-06-01,2024-06-01,otro:1,CASI NO PROBADO / SEÑAL DÉBIL
+Rex Brown,artist,Pantera,1,1,1,0,50673,0,0.2092,4.8428,0,50673,2025-03-21,2025-03-21,entrevista/confesión:1; historia/legado:1; instrumento/técnica:1,COBERTURA MEDIA / INCONCLUSA
+Rita Guerrero,artist,Santa Sabina,1,1,1,0,33542,0,0.6499,8.464,0,33542,2026-02-07,2026-02-07,historia/legado:1; instrumento/técnica:1,COBERTURA MEDIA / INCONCLUSA
+Robbie Williams,artist,Robbie Williams,1,1,1,0,11835,0,0.2366,7.4947,0,11835,2025-03-21,2025-03-21,entrevista/confesión:1; historia/legado:1,COBERTURA MEDIA / INCONCLUSA
+Sade,artist,Sade,1,1,1,0,694,0,0.0,1.7291,0,694,2024-02-25,2024-02-25,presentación/canción:1,CASI NO PROBADO / SEÑAL DÉBIL
+Tears for Fears,band,Tears for Fears,1,1,1,0,2453,0,0.3261,6.3596,0,2453,2026-01-17,2026-01-17,presentación/canción:1; instrumento/técnica:1,CASI NO PROBADO / SEÑAL DÉBIL
+The Big Push,band,The Big Push,1,1,1,0,996,0,0.6024,3.2129,0,996,2025-09-01,2025-09-01,entrevista/confesión:1; presentación/canción:1; conflicto/negocio:1,CASI NO PROBADO / SEÑAL DÉBIL
+The Cranberries,band,The Cranberries,1,1,1,0,685,0,0.146,8.9051,0,685,2025-12-13,2025-12-13,muerte/adversidad:1; presentación/canción:1; conflicto/negocio:1,CASI NO PROBADO / SEÑAL DÉBIL
+The Verve,band,The Verve,1,1,1,0,442,0,0.4525,12.8959,0,442,2024-05-05,2024-05-05,otro:1,CASI NO PROBADO / SEÑAL DÉBIL
+Toni Cornell,artist,Cornell,1,1,1,0,12928,0,0.1624,2.104,0,12928,2025-03-30,2025-03-30,muerte/adversidad:1; presentación/canción:1; familia/relación:1,COBERTURA MEDIA / INCONCLUSA
+Train,band,Train,1,1,1,0,279,0,0.0,3.9427,0,279,2024-06-05,2024-06-05,otro:1,CASI NO PROBADO / SEÑAL DÉBIL
+Travis,band,Travis,1,1,1,0,738,0,0.4065,6.3686,0,738,2024-02-21,2024-02-21,presentación/canción:1,CASI NO PROBADO / SEÑAL DÉBIL
+Ugly Kid Joe,band,Ugly Kid Joe,1,1,1,0,1259,0,0.2383,3.6537,0,1259,2025-07-03,2025-07-03,presentación/canción:1; instrumento/técnica:1,CASI NO PROBADO / SEÑAL DÉBIL
+Underworld,band,Underworld,1,1,1,0,1809,0,0.0553,1.2161,0,1809,2025-04-10,2025-04-10,presentación/canción:1; historia/legado:1; instrumento/técnica:1,CASI NO PROBADO / SEÑAL DÉBIL
+Oasis,band,Oasis,0,6,0,0,0,0,0,0,0,0,,,,COBERTURA MEDIA / INCONCLUSA
+Black Sabbath,band,Black Sabbath/Ozzy,0,5,0,0,0,0,0,0,0,0,,,,COBERTURA MEDIA / INCONCLUSA
+Eddie Van Halen,artist,Van Halen,0,4,0,0,0,0,0,0,0,0,,,,COBERTURA MEDIA / INCONCLUSA
+Fleetwood Mac,band,Fleetwood Mac,0,4,0,0,0,0,0,0,0,0,,,,COBERTURA MEDIA / INCONCLUSA
+Jeff Ament,artist,Pearl Jam,0,4,0,0,0,0,0,0,0,0,,,,COBERTURA MEDIA / INCONCLUSA
+Chester Bennington,artist,Linkin Park,0,3,0,0,0,0,0,0,0,0,,,,COBERTURA MEDIA / INCONCLUSA
+Ed Roland,artist,Collective Soul,0,3,0,0,0,0,0,0,0,0,,,,COBERTURA MEDIA / INCONCLUSA
+Emily Armstrong,artist,Linkin Park,0,3,0,0,0,0,0,0,0,0,,,,COBERTURA MEDIA / INCONCLUSA
+George Harrison,artist,Beatles,0,3,0,0,0,0,0,0,0,0,,,,COBERTURA MEDIA / INCONCLUSA
+Poison,band,Poison,0,3,0,0,0,0,0,0,0,0,,,,COBERTURA MEDIA / INCONCLUSA
+Andrew Wood,artist,Pearl Jam,0,2,0,0,0,0,0,0,0,0,,,,COBERTURA MEDIA / INCONCLUSA
+Duff McKagan,artist,Guns N' Roses,0,2,0,0,0,0,0,0,0,0,,,,COBERTURA MEDIA / INCONCLUSA
+Flea,artist,RHCP,0,2,0,0,0,0,0,0,0,0,,,,COBERTURA MEDIA / INCONCLUSA
+Jeff Buckley,artist,Jeff Buckley,0,2,0,0,0,0,0,0,0,0,,,,COBERTURA MEDIA / INCONCLUSA
+Mother Love Bone,band,Pearl Jam,0,2,0,0,0,0,0,0,0,0,,,,COBERTURA MEDIA / INCONCLUSA
+Ric Ocasek,artist,The Cars,0,2,0,0,0,0,0,0,0,0,,,,COBERTURA MEDIA / INCONCLUSA
+Temple of the Dog,band,Cornell,0,2,0,0,0,0,0,0,0,0,,,,COBERTURA MEDIA / INCONCLUSA
+The Beach Boys,band,Beach Boys,0,2,0,0,0,0,0,0,0,0,,,,COBERTURA MEDIA / INCONCLUSA
+Bon Scott,artist,AC/DC,0,1,0,0,0,0,0,0,0,0,,,,COBERTURA MEDIA / INCONCLUSA
+Brian Eno,artist,Brian Eno,0,1,0,0,0,0,0,0,0,0,,,,COBERTURA MEDIA / INCONCLUSA
+Coldplay,band,Coldplay,0,1,0,0,0,0,0,0,0,0,,,,COBERTURA MEDIA / INCONCLUSA
+Culture Club,band,Culture Club,0,1,0,0,0,0,0,0,0,0,,,,COBERTURA MEDIA / INCONCLUSA
+Dave Matthews Band,band,Dave Matthews Band,0,1,0,0,0,0,0,0,0,0,,,,COBERTURA MEDIA / INCONCLUSA
+Dave Mustaine,artist,Megadeth,0,1,0,0,0,0,0,0,0,0,,,,COBERTURA MEDIA / INCONCLUSA
+Dire Straits,band,Dire Straits,0,1,0,0,0,0,0,0,0,0,,,,COBERTURA MEDIA / INCONCLUSA
+Dolores O'Riordan,artist,The Cranberries,0,1,0,0,0,0,0,0,0,0,,,,COBERTURA MEDIA / INCONCLUSA
+Eric Martin,artist,Mr. Big,0,1,0,0,0,0,0,0,0,0,,,,COBERTURA MEDIA / INCONCLUSA
+Eurythmics,band,Eurythmics,0,1,0,0,0,0,0,0,0,0,,,,COBERTURA MEDIA / INCONCLUSA
+Goo Goo Dolls,band,Goo Goo Dolls,0,1,0,0,0,0,0,0,0,0,,,,COBERTURA MEDIA / INCONCLUSA
+Hillel Slovak,artist,RHCP,0,1,0,0,0,0,0,0,0,0,,,,COBERTURA MEDIA / INCONCLUSA
+IDLES,band,IDLES,0,1,0,0,0,0,0,0,0,0,,,,COBERTURA MEDIA / INCONCLUSA
+Kevin Cronin,artist,REO Speedwagon,0,1,0,0,0,0,0,0,0,0,,,,COBERTURA MEDIA / INCONCLUSA
+Mike Patton,artist,Faith No More,0,1,0,0,0,0,0,0,0,0,,,,COBERTURA MEDIA / INCONCLUSA
+Nick Van Eede,artist,Cutting Crew,0,1,0,0,0,0,0,0,0,0,,,,COBERTURA MEDIA / INCONCLUSA
+Pantera,band,Pantera,0,1,0,0,0,0,0,0,0,0,,,,COBERTURA MEDIA / INCONCLUSA
+Santa Sabina,band,Santa Sabina,0,1,0,0,0,0,0,0,0,0,,,,COBERTURA MEDIA / INCONCLUSA
+Tom Petty,artist,Tom Petty,0,1,0,0,0,0,0,0,0,0,,,,COBERTURA MEDIA / INCONCLUSA
+Twisted Sister,band,Twisted Sister,0,1,0,0,0,0,0,0,0,0,,,,COBERTURA MEDIA / INCONCLUSA
+ZZ Top,band,ZZ Top,0,1,0,0,0,0,0,0,0,0,,,,COBERTURA MEDIA / INCONCLUSA

@@ -1,0 +1,1044 @@
+{
+  "kind": "youtube#videoListResponse",
+  "etag": "3OQCHN6zppSt9ZCKkDD3cKEgRW8",
+  "items": [
+    {
+      "kind": "youtube#video",
+      "etag": "mt1ru4mMU40_v-b2wirzhNFxuHc",
+      "id": "m9SOQi5Ydgc",
+      "snippet": {
+        "publishedAt": "2026-08-02T01:31:33Z",
+        "channelId": "UCKEn9E-CE5AXnkNLM531H5A",
+        "title": "James Hetfield no era invencible: la herida detrás de Metallica",
+        "description": "James Hetfield siempre pareció una roca: la voz, la guitarra rítmica, el centro de gravedad de Metallica. Pero detrás de esa armadura había una historia marcada por abandono, pérdida, control, adicciones, rehabilitación y una pregunta incómoda: ¿qué pasa cuando el hombre más duro del metal admite que también tiene miedo?\n\nEn este documental de Rockwise Tales recorremos la infancia de James, la muerte de su madre, la salida de su padre, la tragedia de Cliff Burton, el ascenso de Metallica, la crisis de St. Anger y Some Kind of Monster, su sobriedad, 72 Seasons y aquella escena en Belo Horizonte donde Hetfield se mostró vulnerable frente a miles de fans.\n\nEsto no es solo la historia de Metallica. Es la historia de un hombre que tuvo que aprender que pedir ayuda también puede ser una forma de fuerza.\n\nSuscríbete a Rockwise Tales para más documentales sobre las historias ocultas de las leyendas del rock.\n\n#Metallica #JamesHetfield #RockwiseTales",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/m9SOQi5Ydgc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/m9SOQi5Ydgc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/m9SOQi5Ydgc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/m9SOQi5Ydgc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/m9SOQi5Ydgc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Rockwise Tales",
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "es",
+        "localized": {
+          "title": "James Hetfield no era invencible: la herida detrás de Metallica",
+          "description": "James Hetfield siempre pareció una roca: la voz, la guitarra rítmica, el centro de gravedad de Metallica. Pero detrás de esa armadura había una historia marcada por abandono, pérdida, control, adicciones, rehabilitación y una pregunta incómoda: ¿qué pasa cuando el hombre más duro del metal admite que también tiene miedo?\n\nEn este documental de Rockwise Tales recorremos la infancia de James, la muerte de su madre, la salida de su padre, la tragedia de Cliff Burton, el ascenso de Metallica, la crisis de St. Anger y Some Kind of Monster, su sobriedad, 72 Seasons y aquella escena en Belo Horizonte donde Hetfield se mostró vulnerable frente a miles de fans.\n\nEsto no es solo la historia de Metallica. Es la historia de un hombre que tuvo que aprender que pedir ayuda también puede ser una forma de fuerza.\n\nSuscríbete a Rockwise Tales para más documentales sobre las historias ocultas de las leyendas del rock.\n\n#Metallica #JamesHetfield #RockwiseTales"
+        },
+        "defaultAudioLanguage": "es-MX"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false,
+        "selfDeclaredMadeForKids": false
+      },
+      "fileDetails": {
+        "fileType": "video",
+        "container": "mov",
+        "videoStreams": [
+          {
+            "widthPixels": 1920,
+            "heightPixels": 1080,
+            "frameRateFps": 30,
+            "aspectRatio": 1.7777777777777777,
+            "codec": "h265",
+            "bitrateBps": "8574147",
+            "vendor": "[0][0][0][0]"
+          }
+        ],
+        "audioStreams": [
+          {
+            "channelCount": 2,
+            "codec": "aac",
+            "bitrateBps": "195141",
+            "vendor": "[0][0][0][0]"
+          }
+        ],
+        "durationMs": "1237600",
+        "bitrateBps": "8769288"
+      },
+      "processingDetails": {
+        "processingStatus": "succeeded",
+        "fileDetailsAvailability": "available",
+        "processingIssuesAvailability": "available",
+        "tagSuggestionsAvailability": "inProgress",
+        "editorSuggestionsAvailability": "inProgress",
+        "thumbnailsAvailability": "available"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "z0Vz-Wh-pJ5TS9ngFgGQ_HL4Ibw",
+      "id": "80Yzcombo1U",
+      "snippet": {
+        "publishedAt": "2026-07-26T02:29:36Z",
+        "channelId": "UCKEn9E-CE5AXnkNLM531H5A",
+        "title": "La madre de Chester se enteró del regreso de Linkin Park por Google.",
+        "description": "En 2023 Linkin Park eligió a su nueva vocalista en secreto.\n\nNadie lo sabía. Ni los fans. Ni la prensa.\nNi la madre de Chester Bennington.\n\nElla se enteró por Google.\n\nDocumental completo en este canal @RockwiseTales da click en video relacionado\n\n#LinkinPark #EmilyArmstrong #ChesterBennington #rockwisetales #fender",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/80Yzcombo1U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/80Yzcombo1U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/80Yzcombo1U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/80Yzcombo1U/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/80Yzcombo1U/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Rockwise Tales",
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "es",
+        "localized": {
+          "title": "La madre de Chester se enteró del regreso de Linkin Park por Google.",
+          "description": "En 2023 Linkin Park eligió a su nueva vocalista en secreto.\n\nNadie lo sabía. Ni los fans. Ni la prensa.\nNi la madre de Chester Bennington.\n\nElla se enteró por Google.\n\nDocumental completo en este canal @RockwiseTales da click en video relacionado\n\n#LinkinPark #EmilyArmstrong #ChesterBennington #rockwisetales #fender"
+        },
+        "defaultAudioLanguage": "es-MX"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false,
+        "selfDeclaredMadeForKids": false
+      },
+      "fileDetails": {
+        "fileType": "video",
+        "container": "mov",
+        "videoStreams": [
+          {
+            "widthPixels": 1080,
+            "heightPixels": 1920,
+            "frameRateFps": 30,
+            "aspectRatio": 0.5625,
+            "codec": "h265",
+            "bitrateBps": "7854743",
+            "vendor": "[0][0][0][0]"
+          }
+        ],
+        "audioStreams": [
+          {
+            "channelCount": 2,
+            "codec": "aac",
+            "bitrateBps": "184548",
+            "vendor": "[0][0][0][0]"
+          }
+        ],
+        "durationMs": "150233",
+        "bitrateBps": "8039291"
+      },
+      "processingDetails": {
+        "processingStatus": "succeeded",
+        "fileDetailsAvailability": "available",
+        "processingIssuesAvailability": "available",
+        "tagSuggestionsAvailability": "inProgress",
+        "editorSuggestionsAvailability": "inProgress",
+        "thumbnailsAvailability": "available"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "N72r11FefJYbTzfB29Dm3z2K2NA",
+      "id": "FcX1JljVmHg",
+      "snippet": {
+        "publishedAt": "2026-07-25T21:54:02Z",
+        "channelId": "UCKEn9E-CE5AXnkNLM531H5A",
+        "title": "¿Por qué Soundgarden rechazó $21 MILLONES? 😳",
+        "description": "Primero fueron $12 millones. Después, $21 millones. Los miembros sobrevivientes de Soundgarden rechazaron ambas ofertas mientras siete canciones inéditas de Chris Cornell permanecían guardadas.\n¿Qué estaba realmente en juego: dinero, derechos o el legado de Cornell?\n👉 Mira la historia completa en el video relacionado.\n#ChrisCornell #Soundgarden #Rock #Grunge #HistoriaDelRock #YouTubeShorts",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FcX1JljVmHg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FcX1JljVmHg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FcX1JljVmHg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/FcX1JljVmHg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/FcX1JljVmHg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Rockwise Tales",
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "es",
+        "localized": {
+          "title": "¿Por qué Soundgarden rechazó $21 MILLONES? 😳",
+          "description": "Primero fueron $12 millones. Después, $21 millones. Los miembros sobrevivientes de Soundgarden rechazaron ambas ofertas mientras siete canciones inéditas de Chris Cornell permanecían guardadas.\n¿Qué estaba realmente en juego: dinero, derechos o el legado de Cornell?\n👉 Mira la historia completa en el video relacionado.\n#ChrisCornell #Soundgarden #Rock #Grunge #HistoriaDelRock #YouTubeShorts"
+        },
+        "defaultAudioLanguage": "es-MX"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false,
+        "selfDeclaredMadeForKids": false
+      },
+      "fileDetails": {
+        "fileType": "video",
+        "container": "mov",
+        "videoStreams": [
+          {
+            "widthPixels": 1080,
+            "heightPixels": 1920,
+            "frameRateFps": 30,
+            "aspectRatio": 0.5625,
+            "codec": "h265",
+            "bitrateBps": "8799152",
+            "vendor": "[0][0][0][0]"
+          }
+        ],
+        "audioStreams": [
+          {
+            "channelCount": 2,
+            "codec": "aac",
+            "bitrateBps": "191487",
+            "vendor": "[0][0][0][0]"
+          }
+        ],
+        "durationMs": "57866",
+        "bitrateBps": "8990639"
+      },
+      "processingDetails": {
+        "processingStatus": "succeeded",
+        "fileDetailsAvailability": "available",
+        "processingIssuesAvailability": "available",
+        "tagSuggestionsAvailability": "inProgress",
+        "editorSuggestionsAvailability": "inProgress",
+        "thumbnailsAvailability": "available"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "7G5luYxzfJuBhh0hIBRaqd4OAj4",
+      "id": "ZQqqPh0j8U4",
+      "snippet": {
+        "publishedAt": "2026-07-24T00:15:08Z",
+        "channelId": "UCKEn9E-CE5AXnkNLM531H5A",
+        "title": "SOUNDGARDEN RECHAZÓ DOS OFERTAS MILLONARIAS POR CHRIS CORNELL... Y TARDARON 6 AÑOS EN DECIR POR QUÉ",
+        "description": "Le ofrecieron $21,000,000 de dólares a los tres últimos integrantes de Soundgarden. Los rechazaron dos veces.\n\nNo era sobre el dinero. Era sobre quién tiene derecho a decidir cómo se recuerda a Chris Cornell.\n\nSiete canciones inéditas quedaron encerradas entre demandas, una contrademanda, y una guerra legal entre su viuda y la banda que lo acompañó por treinta años. Esta es la historia completa — desde el concierto benéfico que los unió a todos en 2019, hasta el acuerdo silencioso de 2023, y la noche de noviembre de 2025 en el Rock & Roll Hall of Fame donde todo, por fin, encontró una especie de paz.\n\n¿Quién debería decidir el destino del arte que deja alguien cuando ya no puede contarlo él mismo?\n\nSi te gustó este video, suscríbete — en este canal exploramos las historias ocultas detrás de las leyendas del rock que nadie más cuenta.\n\n#ChrisCornell #Soundgarden #RockHallOfFame #DocumentalMusical",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZQqqPh0j8U4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZQqqPh0j8U4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZQqqPh0j8U4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ZQqqPh0j8U4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ZQqqPh0j8U4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Rockwise Tales",
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "es",
+        "localized": {
+          "title": "SOUNDGARDEN RECHAZÓ DOS OFERTAS MILLONARIAS POR CHRIS CORNELL... Y TARDARON 6 AÑOS EN DECIR POR QUÉ",
+          "description": "Le ofrecieron $21,000,000 de dólares a los tres últimos integrantes de Soundgarden. Los rechazaron dos veces.\n\nNo era sobre el dinero. Era sobre quién tiene derecho a decidir cómo se recuerda a Chris Cornell.\n\nSiete canciones inéditas quedaron encerradas entre demandas, una contrademanda, y una guerra legal entre su viuda y la banda que lo acompañó por treinta años. Esta es la historia completa — desde el concierto benéfico que los unió a todos en 2019, hasta el acuerdo silencioso de 2023, y la noche de noviembre de 2025 en el Rock & Roll Hall of Fame donde todo, por fin, encontró una especie de paz.\n\n¿Quién debería decidir el destino del arte que deja alguien cuando ya no puede contarlo él mismo?\n\nSi te gustó este video, suscríbete — en este canal exploramos las historias ocultas detrás de las leyendas del rock que nadie más cuenta.\n\n#ChrisCornell #Soundgarden #RockHallOfFame #DocumentalMusical"
+        },
+        "defaultAudioLanguage": "es-MX"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false,
+        "selfDeclaredMadeForKids": false
+      },
+      "fileDetails": {},
+      "processingDetails": {
+        "processingStatus": "succeeded",
+        "fileDetailsAvailability": "inProgress",
+        "processingIssuesAvailability": "inProgress",
+        "tagSuggestionsAvailability": "inProgress",
+        "editorSuggestionsAvailability": "inProgress",
+        "thumbnailsAvailability": "inProgress"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "bhJ_HtEzSfRg5MwDeTTgLBBThXc",
+      "id": "x97VLzuPkf4",
+      "snippet": {
+        "publishedAt": "2026-07-21T01:15:55Z",
+        "channelId": "UCKEn9E-CE5AXnkNLM531H5A",
+        "title": "LINKIN PARK TOMÓ LA DECISIÓN MÁS DIFÍCIL DEL ROCK... Y EL MUNDO LOS ATACÓ POR ELLO",
+        "description": "En julio de 2017, Chester Bennington murió. Linkin Park desapareció.\n\nSiete años después, el 5 de septiembre de 2024, un livestream sin anuncio previo apareció de la nada en internet — sin nombre, sin descripción. En minutos, 400,000 personas estaban conectadas sin saber qué iban a ver. Lo que pasó después fue la decisión más difícil que ha tomado una banda de rock en años: cinco músicos decidiendo si Linkin Park merecía seguir existiendo, y con quién.\n\nEl mundo no se lo perdonó fácilmente. Esta es la historia completa de cómo Linkin Park regresó, por qué eligieron a Emily Armstrong, y qué significa realmente continuar sin la voz que definió a toda una generación.\n\nSi te gustó este video, suscríbete — en este canal exploramos las historias ocultas detrás de las leyendas del rock que nadie más cuenta.\n\n#LinkinPark #ChesterBennington #EmilyArmstrong #FromZero #DocumentalMusical",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/x97VLzuPkf4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/x97VLzuPkf4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/x97VLzuPkf4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/x97VLzuPkf4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/x97VLzuPkf4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Rockwise Tales",
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "es",
+        "localized": {
+          "title": "LINKIN PARK TOMÓ LA DECISIÓN MÁS DIFÍCIL DEL ROCK... Y EL MUNDO LOS ATACÓ POR ELLO",
+          "description": "En julio de 2017, Chester Bennington murió. Linkin Park desapareció.\n\nSiete años después, el 5 de septiembre de 2024, un livestream sin anuncio previo apareció de la nada en internet — sin nombre, sin descripción. En minutos, 400,000 personas estaban conectadas sin saber qué iban a ver. Lo que pasó después fue la decisión más difícil que ha tomado una banda de rock en años: cinco músicos decidiendo si Linkin Park merecía seguir existiendo, y con quién.\n\nEl mundo no se lo perdonó fácilmente. Esta es la historia completa de cómo Linkin Park regresó, por qué eligieron a Emily Armstrong, y qué significa realmente continuar sin la voz que definió a toda una generación.\n\nSi te gustó este video, suscríbete — en este canal exploramos las historias ocultas detrás de las leyendas del rock que nadie más cuenta.\n\n#LinkinPark #ChesterBennington #EmilyArmstrong #FromZero #DocumentalMusical"
+        },
+        "defaultAudioLanguage": "es-MX"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false,
+        "selfDeclaredMadeForKids": false
+      },
+      "fileDetails": {},
+      "processingDetails": {
+        "processingStatus": "succeeded",
+        "fileDetailsAvailability": "inProgress",
+        "processingIssuesAvailability": "inProgress",
+        "tagSuggestionsAvailability": "inProgress",
+        "editorSuggestionsAvailability": "inProgress",
+        "thumbnailsAvailability": "inProgress"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "ii3FD5AaMXLlx3zjPCJ7z2l8J00",
+      "id": "t3IB36g6AlY",
+      "snippet": {
+        "publishedAt": "2026-07-16T23:48:55Z",
+        "channelId": "UCKEn9E-CE5AXnkNLM531H5A",
+        "title": "The Form is Empty (Official Visualizer) - Geruka | Album: LIMINAL: Act I",
+        "description": "Welcome to the heart of LIMINAL.\n\"The Form is Empty\" is Track 08 of our debut album. It represents the point of no return in this alchemical journey: the moment where matter dissolves to reveal that form and emptiness are, in essence, the same.\nThis visualizer features the new band emblem [G-K] melting into the vortex of primordial vacuity.\n Artist: Geruka\n Album: LIMINAL\n Track: 08\n Genre: Mystic Grunge / Alchemical Rock\n Full Album Release Date: April 1st, 2026\n © 2026 Geruka Music. All rights reserved.\nLyrics\nTrack 08: The Form is Empty\n\nA cup is full\nBecause it's empty\nThe light is gone\nBecause it's plenty\nA thousand mirrors\nWith no face to show\nThe more I hold\nThe less I know\n\nDissolving the edges\nCrossing the bridges\nSevering the edges\nCrossing the bridges...\nSolving the edges\nCrossing the bridges...\n\nTapping to the emptiness\nWhere the darkness is light\nThe form is a shadow\nBurning so bright\nNo beginning or end\nJust the path of the breath\nWe born in the void\nWe dance with death\n\nTapping to the emptiness\nWhere the darkness is light\nThe form is a shadow\nBurning so bright\nNo beginning or end\nJust the path of the breath\nA born in the void\nWe dance with...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/t3IB36g6AlY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/t3IB36g6AlY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/t3IB36g6AlY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/t3IB36g6AlY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Rockwise Tales",
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "The Form is Empty (Official Visualizer) - Geruka | Album: LIMINAL: Act I",
+          "description": "Welcome to the heart of LIMINAL.\n\"The Form is Empty\" is Track 08 of our debut album. It represents the point of no return in this alchemical journey: the moment where matter dissolves to reveal that form and emptiness are, in essence, the same.\nThis visualizer features the new band emblem [G-K] melting into the vortex of primordial vacuity.\n Artist: Geruka\n Album: LIMINAL\n Track: 08\n Genre: Mystic Grunge / Alchemical Rock\n Full Album Release Date: April 1st, 2026\n © 2026 Geruka Music. All rights reserved.\nLyrics\nTrack 08: The Form is Empty\n\nA cup is full\nBecause it's empty\nThe light is gone\nBecause it's plenty\nA thousand mirrors\nWith no face to show\nThe more I hold\nThe less I know\n\nDissolving the edges\nCrossing the bridges\nSevering the edges\nCrossing the bridges...\nSolving the edges\nCrossing the bridges...\n\nTapping to the emptiness\nWhere the darkness is light\nThe form is a shadow\nBurning so bright\nNo beginning or end\nJust the path of the breath\nWe born in the void\nWe dance with death\n\nTapping to the emptiness\nWhere the darkness is light\nThe form is a shadow\nBurning so bright\nNo beginning or end\nJust the path of the breath\nA born in the void\nWe dance with..."
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false,
+        "selfDeclaredMadeForKids": false
+      },
+      "fileDetails": {},
+      "processingDetails": {
+        "processingStatus": "succeeded",
+        "fileDetailsAvailability": "inProgress",
+        "processingIssuesAvailability": "inProgress",
+        "tagSuggestionsAvailability": "inProgress",
+        "editorSuggestionsAvailability": "inProgress",
+        "thumbnailsAvailability": "inProgress"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "G2JEMbiZ1nW_0DA0mRt-4H7o0Bg",
+      "id": "IoSm6dPM4uQ",
+      "snippet": {
+        "publishedAt": "2026-07-16T23:48:51Z",
+        "channelId": "UCKEn9E-CE5AXnkNLM531H5A",
+        "title": "Vajra Pulse (Official Visualizer) - Geruka | LIMINAL: Act I",
+        "description": "Welcome to the heart of LIMINAL.\n​\"Vajra Pulse\" is Track 02 of our debut album. It is the awakening of the indestructible spark—a high-energy fusion of monstrous slap bass and mystic grit. This track explores the paradox of change: the diamond and the flame, dark and light, all woven into a single, unbreakable frequency.\n​Artist: Geruka\n​Album: LIMINAL\n​Track: 02\n​Genre: Mystic Grunge / Alchemical Rock\n​Release Date: April 1st, 2026\n​© 2026 Geruka Music. All rights reserved.\n\nLyrics:\n\nThere’s a lightning in the socket, a thunder in the bone\nI’m building up the temple, with a single heavy stone\nFollow the vibration, feel the static in the skin\nThe ending of the cycle, is where the sparks begin\n\nA diamond in the furnace, a fire in the deep\nI’m waking up the power, that was never meant to sleep\nI am the percussion, and I am the sound\nDancing in the wreckage, on this holy ground\n\nI don’t need a reason\nI don’t need a sign\nI feel the Vajra pulse... starting to align!\n\n\nTHE PULSE—Indestructible soul\nTHE PULSE—Make the broken whole\nTHE PULSE—Diamond and the flame\nEverything is changing... but it stays the same!\n\nDark and Light, woven in the grain\nOne and the same... One and the same...\n\nIf I am the hammer, I find the nail\nIf I am the wind, I find the sail\nIF I AM THE MOTION, I CANNOT FAIL!\n\nTHE PULSE—Indestructible soul\nONE AND THE SAME!\n\nVajra Pulse...\n\nIndestructible.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IoSm6dPM4uQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IoSm6dPM4uQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IoSm6dPM4uQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/IoSm6dPM4uQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/IoSm6dPM4uQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Rockwise Tales",
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Vajra Pulse (Official Visualizer) - Geruka | LIMINAL: Act I",
+          "description": "Welcome to the heart of LIMINAL.\n​\"Vajra Pulse\" is Track 02 of our debut album. It is the awakening of the indestructible spark—a high-energy fusion of monstrous slap bass and mystic grit. This track explores the paradox of change: the diamond and the flame, dark and light, all woven into a single, unbreakable frequency.\n​Artist: Geruka\n​Album: LIMINAL\n​Track: 02\n​Genre: Mystic Grunge / Alchemical Rock\n​Release Date: April 1st, 2026\n​© 2026 Geruka Music. All rights reserved.\n\nLyrics:\n\nThere’s a lightning in the socket, a thunder in the bone\nI’m building up the temple, with a single heavy stone\nFollow the vibration, feel the static in the skin\nThe ending of the cycle, is where the sparks begin\n\nA diamond in the furnace, a fire in the deep\nI’m waking up the power, that was never meant to sleep\nI am the percussion, and I am the sound\nDancing in the wreckage, on this holy ground\n\nI don’t need a reason\nI don’t need a sign\nI feel the Vajra pulse... starting to align!\n\n\nTHE PULSE—Indestructible soul\nTHE PULSE—Make the broken whole\nTHE PULSE—Diamond and the flame\nEverything is changing... but it stays the same!\n\nDark and Light, woven in the grain\nOne and the same... One and the same...\n\nIf I am the hammer, I find the nail\nIf I am the wind, I find the sail\nIF I AM THE MOTION, I CANNOT FAIL!\n\nTHE PULSE—Indestructible soul\nONE AND THE SAME!\n\nVajra Pulse...\n\nIndestructible."
+        }
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false,
+        "selfDeclaredMadeForKids": false
+      },
+      "fileDetails": {},
+      "processingDetails": {
+        "processingStatus": "succeeded",
+        "fileDetailsAvailability": "inProgress",
+        "processingIssuesAvailability": "inProgress",
+        "tagSuggestionsAvailability": "inProgress",
+        "editorSuggestionsAvailability": "inProgress",
+        "thumbnailsAvailability": "inProgress"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "dV8b5P_MPRyexOujUCKwn5WfvFk",
+      "id": "QnD86OL1pq0",
+      "snippet": {
+        "publishedAt": "2026-07-14T01:00:28Z",
+        "channelId": "UCKEn9E-CE5AXnkNLM531H5A",
+        "title": "Scott Weiland - Nadie sospechó que sería una de sus últimas entrevistas 😔🎸 #ScottWeiland #Shorts",
+        "description": "19 días antes de morir, Scott Weiland habló de su esposa como si nada\nestuviera mal. Esto es solo el principio de la historia.\n\nLa historia completa — la carta que su ex-esposa le escribió al mundo,\ny todo lo que pasó después — ya está en este canal. 🎸\n\n#ScottWeiland #StoneTemplePilots #RockDocumental #GrungeEra\n#RockwiseTales #Shorts",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QnD86OL1pq0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QnD86OL1pq0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QnD86OL1pq0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/QnD86OL1pq0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/QnD86OL1pq0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Rockwise Tales",
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "es",
+        "localized": {
+          "title": "Scott Weiland - Nadie sospechó que sería una de sus últimas entrevistas 😔🎸 #ScottWeiland #Shorts",
+          "description": "19 días antes de morir, Scott Weiland habló de su esposa como si nada\nestuviera mal. Esto es solo el principio de la historia.\n\nLa historia completa — la carta que su ex-esposa le escribió al mundo,\ny todo lo que pasó después — ya está en este canal. 🎸\n\n#ScottWeiland #StoneTemplePilots #RockDocumental #GrungeEra\n#RockwiseTales #Shorts"
+        }
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false,
+        "selfDeclaredMadeForKids": false
+      },
+      "fileDetails": {},
+      "processingDetails": {
+        "processingStatus": "succeeded",
+        "fileDetailsAvailability": "inProgress",
+        "processingIssuesAvailability": "inProgress",
+        "tagSuggestionsAvailability": "inProgress",
+        "editorSuggestionsAvailability": "inProgress",
+        "thumbnailsAvailability": "inProgress"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "Q7KGviccYIq6H5KLVNs_8_C0Uc8",
+      "id": "SEFwQcg92iA",
+      "snippet": {
+        "publishedAt": "2026-07-13T01:00:06Z",
+        "channelId": "UCKEn9E-CE5AXnkNLM531H5A",
+        "title": "19 días antes de morir, Scott Weiland dijo esto — la verdad que su ex-esposa reveló al mundo",
+        "description": "Diecinueve días antes de morir, Scott Weiland habló de su esposa\ncomo si nada estuviera mal. Nadie en ese cuarto sospechó que sería\nuna de sus últimas entrevistas.\n\nEl 3 de diciembre de 2015, murió en un tour bus en Minnesota.\nTenía 48 años. Cocaína, alcohol y MDA.\n\nCinco días después, su ex-esposa publicó una carta en Rolling Stone\nque el mundo del rock no quería leer.\n\nNo era un tributo. Era una advertencia.\n\nEn este documental: los últimos 19 días de Weiland, la historia que\nStone Temple Pilots nunca contó, y la pregunta que Mary Forsberg le\nhizo a toda una industria.\n\n¿En qué momento el aplauso se convierte en cómplice?\n\nDéjame tu respuesta en los comentarios.\n\n📌 Actualización: agregamos subtítulos en español para los fragmentos\ndonde Weiland habla en inglés — actívalos con el ícono CC.\n\n→ Rockwise Tales — archivos ocultos de las leyendas del rock\n\n#ScottWeiland #StoneTemplePilots #RockDocumental #MaryForsberg\n#GrungeEra #RockHistory #MusicDocumentary #RockwiseTales\n#STP #CoreAlbum #ChesterBennington #SaludMentalEnElRock\n#Grunge #90sRock #RockEnEspañol",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SEFwQcg92iA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SEFwQcg92iA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SEFwQcg92iA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/SEFwQcg92iA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/SEFwQcg92iA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Rockwise Tales",
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "es",
+        "localized": {
+          "title": "19 días antes de morir, Scott Weiland dijo esto — la verdad que su ex-esposa reveló al mundo",
+          "description": "Diecinueve días antes de morir, Scott Weiland habló de su esposa\ncomo si nada estuviera mal. Nadie en ese cuarto sospechó que sería\nuna de sus últimas entrevistas.\n\nEl 3 de diciembre de 2015, murió en un tour bus en Minnesota.\nTenía 48 años. Cocaína, alcohol y MDA.\n\nCinco días después, su ex-esposa publicó una carta en Rolling Stone\nque el mundo del rock no quería leer.\n\nNo era un tributo. Era una advertencia.\n\nEn este documental: los últimos 19 días de Weiland, la historia que\nStone Temple Pilots nunca contó, y la pregunta que Mary Forsberg le\nhizo a toda una industria.\n\n¿En qué momento el aplauso se convierte en cómplice?\n\nDéjame tu respuesta en los comentarios.\n\n📌 Actualización: agregamos subtítulos en español para los fragmentos\ndonde Weiland habla en inglés — actívalos con el ícono CC.\n\n→ Rockwise Tales — archivos ocultos de las leyendas del rock\n\n#ScottWeiland #StoneTemplePilots #RockDocumental #MaryForsberg\n#GrungeEra #RockHistory #MusicDocumentary #RockwiseTales\n#STP #CoreAlbum #ChesterBennington #SaludMentalEnElRock\n#Grunge #90sRock #RockEnEspañol"
+        },
+        "defaultAudioLanguage": "es-MX"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false,
+        "selfDeclaredMadeForKids": false
+      },
+      "fileDetails": {},
+      "processingDetails": {
+        "processingStatus": "succeeded",
+        "fileDetailsAvailability": "inProgress",
+        "processingIssuesAvailability": "inProgress",
+        "tagSuggestionsAvailability": "inProgress",
+        "editorSuggestionsAvailability": "inProgress",
+        "thumbnailsAvailability": "inProgress"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "Y3jrl01HwbPo5Ns0Z1aRO648RYQ",
+      "id": "5rWdGFTM8SY",
+      "snippet": {
+        "publishedAt": "2026-06-28T22:30:26Z",
+        "channelId": "UCKEn9E-CE5AXnkNLM531H5A",
+        "title": "Mad Season: El plan secreto para salvar a Layne Staley y la historia que nadie contó",
+        "description": "En 1994, cuatro músicos de bandas de la misma escena que, en teoría, eran competencia se juntaron en secreto para hacer algo que nunca había existido antes. \nNo era grunge. No era rock de estadio. Era otra cosa.\n\nEsta es la historia de Mad Season — el proyecto que intentó \nsalvar a Layne Staley, el disco que grabaron en 10 días, \ny la cultura de colaboración que definió una época donde \nlos rockeros de Seattle eran amigos, no competencia.\n\nTemple of the Dog. Desert Sessions. Audioslave. Velvet Revolver. \nTodos nacieron de lo mismo: músicos buscando crear juntos, \nsin fronteras, sin rivalidades.\n\nMad Season fue el más honesto de todos.\n\n🎸 Suscríbete para más historias del rock que no se cuentan.\n\n#MadSeason #LayneStaley #MikeMcCready #AliceInChains \n#PearlJam #Above #Grunge #Seattle #Rock90s #JohnBakerSaunders \n#BarrettMartin #GibsonEDS1275 #TempleOfTheDog #Audioslave \n#VelvetRevolver #DesertSessi",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5rWdGFTM8SY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5rWdGFTM8SY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5rWdGFTM8SY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/5rWdGFTM8SY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/5rWdGFTM8SY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Rockwise Tales",
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "es",
+        "localized": {
+          "title": "Mad Season: El plan secreto para salvar a Layne Staley y la historia que nadie contó",
+          "description": "En 1994, cuatro músicos de bandas de la misma escena que, en teoría, eran competencia se juntaron en secreto para hacer algo que nunca había existido antes. \nNo era grunge. No era rock de estadio. Era otra cosa.\n\nEsta es la historia de Mad Season — el proyecto que intentó \nsalvar a Layne Staley, el disco que grabaron en 10 días, \ny la cultura de colaboración que definió una época donde \nlos rockeros de Seattle eran amigos, no competencia.\n\nTemple of the Dog. Desert Sessions. Audioslave. Velvet Revolver. \nTodos nacieron de lo mismo: músicos buscando crear juntos, \nsin fronteras, sin rivalidades.\n\nMad Season fue el más honesto de todos.\n\n🎸 Suscríbete para más historias del rock que no se cuentan.\n\n#MadSeason #LayneStaley #MikeMcCready #AliceInChains \n#PearlJam #Above #Grunge #Seattle #Rock90s #JohnBakerSaunders \n#BarrettMartin #GibsonEDS1275 #TempleOfTheDog #Audioslave \n#VelvetRevolver #DesertSessi"
+        }
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false,
+        "selfDeclaredMadeForKids": false
+      },
+      "fileDetails": {},
+      "processingDetails": {
+        "processingStatus": "succeeded",
+        "fileDetailsAvailability": "inProgress",
+        "processingIssuesAvailability": "inProgress",
+        "tagSuggestionsAvailability": "inProgress",
+        "editorSuggestionsAvailability": "inProgress",
+        "thumbnailsAvailability": "inProgress"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "KaXLHc72s5xMbTFsnKw05VoAqs8",
+      "id": "goD5XhmKUyo",
+      "snippet": {
+        "publishedAt": "2026-06-15T03:05:58Z",
+        "channelId": "UCKEn9E-CE5AXnkNLM531H5A",
+        "title": "Cantó en November Rain y nadie supo su nombre 🎸",
+        "description": "Shannon Hoon grabó los coros de November Rain, Don't Cry y Live and Let Die en Use Your Illusion de Guns N' Roses. Su nombre no aparece en ningún crédito.\n\nCuando Blind Melon explotó con la niña de la abeja, millones escuchaban su voz en dos discos al mismo tiempo sin saberlo.\n\nSu hija nació 102 días antes de que muriera en el bus de la banda.\n\n#RockwiseTales #ShannонHoon #BlindMelon #NoRain #GunsNRoses #NovemberRain #HistoriasDelRock",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/goD5XhmKUyo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/goD5XhmKUyo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/goD5XhmKUyo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/goD5XhmKUyo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/goD5XhmKUyo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Rockwise Tales",
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "es",
+        "localized": {
+          "title": "Cantó en November Rain y nadie supo su nombre 🎸",
+          "description": "Shannon Hoon grabó los coros de November Rain, Don't Cry y Live and Let Die en Use Your Illusion de Guns N' Roses. Su nombre no aparece en ningún crédito.\n\nCuando Blind Melon explotó con la niña de la abeja, millones escuchaban su voz en dos discos al mismo tiempo sin saberlo.\n\nSu hija nació 102 días antes de que muriera en el bus de la banda.\n\n#RockwiseTales #ShannонHoon #BlindMelon #NoRain #GunsNRoses #NovemberRain #HistoriasDelRock"
+        }
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false,
+        "selfDeclaredMadeForKids": false
+      },
+      "fileDetails": {},
+      "processingDetails": {
+        "processingStatus": "succeeded",
+        "fileDetailsAvailability": "inProgress",
+        "processingIssuesAvailability": "inProgress",
+        "tagSuggestionsAvailability": "inProgress",
+        "editorSuggestionsAvailability": "inProgress",
+        "thumbnailsAvailability": "inProgress"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "c-7kyRsv1RyPVA-pF0iepOPeqEs",
+      "id": "qFZWP9t8dLI",
+      "snippet": {
+        "publishedAt": "2026-06-15T02:05:12Z",
+        "channelId": "UCKEn9E-CE5AXnkNLM531H5A",
+        "title": "Canciones que arruinaron vidas reales 🎸",
+        "description": "Ozzy Osbourne fue a juicio por una canción que él ni siquiera escribió. Metallica terminó siendo dueña de una película de Cannes. Y Screamin' Jay Hawkins grabó su canción más famosa tan borracho que nunca recordó haberlo hecho.\n\nEsto no es leyenda urbana. Está documentado.\n\n#RockwiseTales #Rock #Metallica #Ozzy #CuriosidadesDelRock #HistoriasDelRock #RockEnEspañol",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qFZWP9t8dLI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qFZWP9t8dLI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qFZWP9t8dLI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/qFZWP9t8dLI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/qFZWP9t8dLI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Rockwise Tales",
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "es",
+        "localized": {
+          "title": "Canciones que arruinaron vidas reales 🎸",
+          "description": "Ozzy Osbourne fue a juicio por una canción que él ni siquiera escribió. Metallica terminó siendo dueña de una película de Cannes. Y Screamin' Jay Hawkins grabó su canción más famosa tan borracho que nunca recordó haberlo hecho.\n\nEsto no es leyenda urbana. Está documentado.\n\n#RockwiseTales #Rock #Metallica #Ozzy #CuriosidadesDelRock #HistoriasDelRock #RockEnEspañol"
+        }
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false,
+        "selfDeclaredMadeForKids": false
+      },
+      "fileDetails": {},
+      "processingDetails": {
+        "processingStatus": "succeeded",
+        "fileDetailsAvailability": "inProgress",
+        "processingIssuesAvailability": "inProgress",
+        "tagSuggestionsAvailability": "inProgress",
+        "editorSuggestionsAvailability": "inProgress",
+        "thumbnailsAvailability": "inProgress"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "tfdrhDYVO3MFzcPSc7lKOzGINkY",
+      "id": "vjhPf8dqvBg",
+      "snippet": {
+        "publishedAt": "2026-06-03T01:18:03Z",
+        "channelId": "UCKEn9E-CE5AXnkNLM531H5A",
+        "title": "Def Leppard vuelve a LatAm y hay ciudades que los esperan desde 1997 🤘",
+        "description": "29 años después, Def Leppard regresa a ciudades que nunca volvieron a pisar. Querétaro y Costa Rica por primera vez en la historia. San Salvador y Quito desde 1997. Y esta vez vienen con Extreme y música nueva.\n¿Tu ciudad está en la lista? 👇\n#defleppard #defleppard2026 #rockenlatam #rockwisetales #extreme #queretaro #santiagodechile #sansalvador #guadalajara #cdmx #buenosaires #bogota #quito #costarica",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vjhPf8dqvBg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vjhPf8dqvBg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vjhPf8dqvBg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/vjhPf8dqvBg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/vjhPf8dqvBg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Rockwise Tales",
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "es",
+        "localized": {
+          "title": "Def Leppard vuelve a LatAm y hay ciudades que los esperan desde 1997 🤘",
+          "description": "29 años después, Def Leppard regresa a ciudades que nunca volvieron a pisar. Querétaro y Costa Rica por primera vez en la historia. San Salvador y Quito desde 1997. Y esta vez vienen con Extreme y música nueva.\n¿Tu ciudad está en la lista? 👇\n#defleppard #defleppard2026 #rockenlatam #rockwisetales #extreme #queretaro #santiagodechile #sansalvador #guadalajara #cdmx #buenosaires #bogota #quito #costarica"
+        }
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false,
+        "selfDeclaredMadeForKids": false
+      },
+      "fileDetails": {},
+      "processingDetails": {
+        "processingStatus": "succeeded",
+        "fileDetailsAvailability": "inProgress",
+        "processingIssuesAvailability": "inProgress",
+        "tagSuggestionsAvailability": "inProgress",
+        "editorSuggestionsAvailability": "inProgress",
+        "thumbnailsAvailability": "inProgress"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "mboD-C52IprpcW9N0KSJ8J0CRK0",
+      "id": "tTjY23RTeyE",
+      "snippet": {
+        "publishedAt": "2026-06-01T03:42:32Z",
+        "channelId": "UCKEn9E-CE5AXnkNLM531H5A",
+        "title": "Violet Grohl lanzó su álbum debut  y la crítica no habla de su papá #VioletGrohl #rockwisetales",
+        "description": "La hija de Dave Grohl tiene 20 años y acaba de lanzar \"Be Sweet To Me\".Alt-rock de los 90. PJ Harvey. The Breeders. Once canciones.¿Artista real? Los facts están sobre la mesa.#VioletGrohl #BeSweetToMe #RockAlternativo #DaveGrohl #NuevoAlbum #RockNoticias",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tTjY23RTeyE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tTjY23RTeyE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tTjY23RTeyE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/tTjY23RTeyE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/tTjY23RTeyE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Rockwise Tales",
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "es",
+        "localized": {
+          "title": "Violet Grohl lanzó su álbum debut  y la crítica no habla de su papá #VioletGrohl #rockwisetales",
+          "description": "La hija de Dave Grohl tiene 20 años y acaba de lanzar \"Be Sweet To Me\".Alt-rock de los 90. PJ Harvey. The Breeders. Once canciones.¿Artista real? Los facts están sobre la mesa.#VioletGrohl #BeSweetToMe #RockAlternativo #DaveGrohl #NuevoAlbum #RockNoticias"
+        }
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false,
+        "selfDeclaredMadeForKids": false
+      },
+      "fileDetails": {},
+      "processingDetails": {
+        "processingStatus": "succeeded",
+        "fileDetailsAvailability": "inProgress",
+        "processingIssuesAvailability": "inProgress",
+        "tagSuggestionsAvailability": "inProgress",
+        "editorSuggestionsAvailability": "inProgress",
+        "thumbnailsAvailability": "inProgress"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "mSMTTqkqsAOpzAG4F3EQmkO55NE",
+      "id": "3jqA6fj6P7Y",
+      "snippet": {
+        "publishedAt": "2026-05-27T04:39:30Z",
+        "channelId": "UCKEn9E-CE5AXnkNLM531H5A",
+        "title": "Frusciante no pudo más en 1992 #rhcp #rockwisetale #rock",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3jqA6fj6P7Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3jqA6fj6P7Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3jqA6fj6P7Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/3jqA6fj6P7Y/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/3jqA6fj6P7Y/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Rockwise Tales",
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "es",
+        "localized": {
+          "title": "Frusciante no pudo más en 1992 #rhcp #rockwisetale #rock",
+          "description": ""
+        }
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false,
+        "selfDeclaredMadeForKids": false
+      },
+      "fileDetails": {},
+      "processingDetails": {
+        "processingStatus": "succeeded",
+        "fileDetailsAvailability": "inProgress",
+        "processingIssuesAvailability": "inProgress",
+        "tagSuggestionsAvailability": "inProgress",
+        "editorSuggestionsAvailability": "inProgress",
+        "thumbnailsAvailability": "inProgress"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 15,
+    "resultsPerPage": 15
+  }
+}

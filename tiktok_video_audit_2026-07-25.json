@@ -1,0 +1,336 @@
+{
+  "generated_at": "2026-07-25T12:00:00-06:00",
+  "source": "tiktok_own_videos.json",
+  "videos": 469,
+  "top_decile_cutoff": 85225,
+  "viral_median_engagement_rate": 4.8623,
+  "viral_median_share_rate": 0.4176,
+  "by_format_all": {
+    "part_1": {
+      "n": 13,
+      "median_views": 5425,
+      "median_engagement_rate": 4.4751,
+      "median_share_rate": 0.2013,
+      "monetization_floor_rate": 46.15
+    },
+    "sequel": {
+      "n": 14,
+      "median_views": 11852.5,
+      "median_engagement_rate": 5.6612,
+      "median_share_rate": 0.212,
+      "monetization_floor_rate": 71.43
+    },
+    "standalone": {
+      "n": 442,
+      "median_views": 4991.5,
+      "median_engagement_rate": 3.8997,
+      "median_share_rate": 0.2395,
+      "monetization_floor_rate": 43.44
+    }
+  },
+  "by_format_recent_120d": {
+    "part_1": {
+      "n": 5,
+      "median_views": 10033,
+      "median_engagement_rate": 6.3185,
+      "median_share_rate": 0.3125,
+      "monetization_floor_rate": 60.0
+    },
+    "sequel": {
+      "n": 13,
+      "median_views": 13134,
+      "median_engagement_rate": 5.7213,
+      "median_share_rate": 0.2221,
+      "monetization_floor_rate": 76.92
+    },
+    "standalone": {
+      "n": 34,
+      "median_views": 2128.5,
+      "median_engagement_rate": 5.2563,
+      "median_share_rate": 0.3203,
+      "monetization_floor_rate": 29.41
+    }
+  },
+  "by_duration_all": {
+    "180-359s": {
+      "n": 159,
+      "median_views": 4897,
+      "median_engagement_rate": 4.0293,
+      "median_share_rate": 0.2404,
+      "monetization_floor_rate": 43.4
+    },
+    "360-599s": {
+      "n": 94,
+      "median_views": 11935.5,
+      "median_engagement_rate": 3.4356,
+      "median_share_rate": 0.2616,
+      "monetization_floor_rate": 56.38
+    },
+    "60-179s": {
+      "n": 160,
+      "median_views": 2977.5,
+      "median_engagement_rate": 4.3171,
+      "median_share_rate": 0.2429,
+      "monetization_floor_rate": 40.0
+    },
+    "600s+": {
+      "n": 29,
+      "median_views": 9012,
+      "median_engagement_rate": 2.523,
+      "median_share_rate": 0.1529,
+      "monetization_floor_rate": 62.07
+    },
+    "<60s": {
+      "n": 27,
+      "median_views": 629,
+      "median_engagement_rate": 4.4025,
+      "median_share_rate": 0.1194,
+      "monetization_floor_rate": 14.81
+    }
+  },
+  "by_duration_recent_120d": {
+    "180-359s": {
+      "n": 9,
+      "median_views": 13134,
+      "median_engagement_rate": 6.3185,
+      "median_share_rate": 0.346,
+      "monetization_floor_rate": 77.78
+    },
+    "360-599s": {
+      "n": 2,
+      "median_views": 255741.0,
+      "median_engagement_rate": 8.8809,
+      "median_share_rate": 1.4237,
+      "monetization_floor_rate": 50.0
+    },
+    "60-179s": {
+      "n": 36,
+      "median_views": 2962.0,
+      "median_engagement_rate": 5.5951,
+      "median_share_rate": 0.2654,
+      "monetization_floor_rate": 38.89
+    },
+    "600s+": {
+      "n": 2,
+      "median_views": 5784.5,
+      "median_engagement_rate": 5.9819,
+      "median_share_rate": 0.3115,
+      "monetization_floor_rate": 50.0
+    },
+    "<60s": {
+      "n": 3,
+      "median_views": 1068,
+      "median_engagement_rate": 4.7753,
+      "median_share_rate": 0.2453,
+      "monetization_floor_rate": 0.0
+    }
+  },
+  "recent_120d_count": 52,
+  "recent_quality_low_distribution": [
+    {
+      "id": "7623208615012224276",
+      "date_utc": "2026-03-31",
+      "title": "El milagro de Monterrey: ¡Guns N’ Roses hace historia en México! 🇲🇽🔥 ¿Sabías que Monterrey acaba de presenciar algo que los fans de Guns N' Roses esperaron por más de 25 años? No fue solo un concierto; fue el fin de una leyenda urbana en el festival Tecate Pa'l Norte 2026. Axl, Slash y Duff finalmente liberaron a la bestia: \"Atlas\" y \"Nothin'\" debutaron en vivo por primera vez en la historia. \"Atlas\" es el \"Santo Grial\" que vivió oculto desde las sesiones de Chinese Democracy y escucharlo con la formación clásica es la prueba definitiva de que la banda está en su mejor momento. Con el debut de Isaac Carpenter en la batería, los Guns han vuelto a reclamar su trono en tierras mexicanas. ¿Será este el inicio de un nuevo álbum? ¡Sube el volumen y vive el rugido de Atlas! #rockwisetales #gunsnroses #palnorte #mexico #axlrose",
+      "views": 40929,
+      "engagement_rate": 14.5985,
+      "share_rate": 0.5473,
+      "cohort_view_index": 17.259,
+      "next_action": "prometedor_reforzar_search_y_prueba_temprana"
+    },
+    {
+      "id": "7637955674684673281",
+      "date_utc": "2026-05-10",
+      "title": "Lo que la familia Cerati ocultó por 12 años finalmente verá la luz. 🎸🌑 Netflix confirma el documental definitivo para 2027. No es una biografía, es el acceso total a archivos inéditos, videos personales y la mirada de Zeta Bosio y Charly Alberti sobre el hombre detrás del mito. ¿Estás listo para conocer al verdadero Gustavo? Deja un 🎸 si crees que su legado es infinito. #rockwisetales #gustavocerati #sodastereo #netflix #rockenespañol",
+      "views": 19032,
+      "engagement_rate": 11.7171,
+      "share_rate": 1.4765,
+      "cohort_view_index": 9.371,
+      "next_action": "prometedor_reforzar_search_y_prueba_temprana"
+    },
+    {
+      "id": "7630576802716732692",
+      "date_utc": "2026-04-19",
+      "title": "¿IRON MAIDEN RECHAZA EL HALL OF FAME? ¡La Bestia no cabe en un museo! Iron Maiden entra oficialmente al Rock & Roll Hall of Fame 2026... pero NO van a asistir. ¿La razón? Sus fans en Australia son primero. 🇦🇺 El legado pesa más que un trofeo de cristal. ¿Es este el gesto más rockero de la historia o un error? ¡Te leo en los comentarios! Hashtags:#IronMaiden #RockHall2026 #BruceDickinson #rockwisetales",
+      "views": 16276,
+      "engagement_rate": 9.3573,
+      "share_rate": 1.1797,
+      "cohort_view_index": 7.647,
+      "next_action": "prometedor_reforzar_search_y_prueba_temprana"
+    },
+    {
+      "id": "7661331466432859412",
+      "date_utc": "2026-07-13",
+      "title": "Parte 2 - Scott Weiland - Lo corrieron sin avisarle. Se enteró por los periódicos Dos Grammys. Dos bandas. Dos expulsiones. ¿En qué momento esto deja de ser un problema del artista? #ScottWeiland #RockwiseTales #VelvetRevolver #Shure #RockDocumental",
+      "views": 2462,
+      "engagement_rate": 8.6109,
+      "share_rate": 0.4062,
+      "cohort_view_index": 0.173,
+      "next_action": "buen_contenido_baja_distribucion_reempaquetar"
+    },
+    {
+      "id": "7645130746037947656",
+      "date_utc": "2026-05-29",
+      "title": "2da Parte - La gira de Bowie & Nine Inch Nails #rockwisetales #davidbowie #nineinchnails #trentreznor",
+      "views": 4274,
+      "engagement_rate": 8.4698,
+      "share_rate": 0.9827,
+      "cohort_view_index": 1.01,
+      "next_action": "buen_contenido_baja_distribucion_reempaquetar"
+    },
+    {
+      "id": "7659969355840490759",
+      "date_utc": "2026-07-08",
+      "title": "Parte 2 - El fundador de Linkin Park que eligió no levantarse . 12 días después de que Chester murió, Shinoda hizo algo que nadie esperaba. Y mientras lo hacía, uno de los fundadores de la banda empezó a desaparecer en silencio. Sin drama. Sin comunicado. 28 años en la banda. Y un día dejó de estar. Parte 1 de 4 en el perfil 👆 #LinkinPark #MikeShinoda #robbourdon #rockwisetales #fender",
+      "views": 30926,
+      "engagement_rate": 8.336,
+      "share_rate": 0.346,
+      "cohort_view_index": 2.355,
+      "next_action": "hacerlo_autosuficiente_sin_parte_n"
+    },
+    {
+      "id": "7665223575997058324",
+      "date_utc": "2026-07-23",
+      "title": "Soundgarden rechazó $21 millones... y no fue por (solo) por el dinero Tres hombres. Una viuda. Siete canciones que nadie ha escuchado. 🎸 Cuando Chris Cornell murió, dejó grabaciones a medias que nadie sabía qué hacer con ellas. Lo que siguió no fue un homenaje — fue una guerra legal de casi 6 años: dos demandas, una contrademanda, y dos ofertas millonarias rechazadas. ¿La razón? Ninguno peleaba solo por el dinero — peleaban por quién tiene derecho a decidir cómo se recuerda a alguien que ya no puede contarlo él mismo. En 2025, los tres sobrevivientes subieron al escenario del Rock & Roll Hall of Fame junto a las hijas de Cornell — sin que millones de espectadores supieran nada de lo que había pasado detrás de cámaras. Y el disco final, según Kim Thayil, todavía no ha salido. ¿Quién debería decidir el destino del arte que deja alguien cuando muere? #Soundgarden #ChrisCornell #ClassicRock #MusicHistory #rockwisetales Fuentes: Billboard — acuerdo de la demanda (2023) Rolling Stone — inducción al Rock & Roll Hall of Fame (2025) Variety — resolución del caso legal Ultimate Classic Rock — anuncio del álbum final (jul. 2026) Consequence — cobertura de la ceremonia de inducción",
+      "views": 7524,
+      "engagement_rate": 8.2802,
+      "share_rate": 0.4253,
+      "cohort_view_index": 1.114,
+      "next_action": "prometedor_reforzar_search_y_prueba_temprana"
+    },
+    {
+      "id": "7655840525416746261",
+      "date_utc": "2026-06-27",
+      "title": "(1a parte) Mad Season: la banda que nadie esperaba y que grabó uno de los mejores discos del grunge Cuatro músicos de bandas enemigas. Un estudio. 10 días. Así nació Above. #MadSeason #rockwisetales #GibsonGuitars #DoubleNeckGuitar #EDS1275",
+      "views": 10033,
+      "engagement_rate": 7.7245,
+      "share_rate": 0.3987,
+      "cohort_view_index": 1.463,
+      "next_action": "prometedor_reforzar_search_y_prueba_temprana"
+    },
+    {
+      "id": "7661718379522166036",
+      "date_utc": "2026-07-17",
+      "title": "Parte 5 (Final) - Scott Weiland /El aplauso que no para es el mismo que nadie detuvo a tiempo Stone Temple Pilots reemplazó a Weiland con Chester Bennington. Chester murió 19 meses después. No es coincidencia — es un patrón. Layne Staley. Kurt Cobain. Amy Winehouse. La industria lleva décadas confundiendo el talento artístico con la salud mental. Y nosotros, como audiencia, ¿en qué momento el aplauso se vuelve cómplice? 🎸 #rockwisetales #ScottWeiland #ChesterBennington #LinkinPark #Shure",
+      "views": 4231,
+      "engagement_rate": 7.6814,
+      "share_rate": 0.2836,
+      "cohort_view_index": 0.251,
+      "next_action": "buen_contenido_baja_distribucion_reempaquetar"
+    },
+    {
+      "id": "7651452209909026056",
+      "date_utc": "2026-06-15",
+      "title": "Cantó en November Rain y nadie supo su nombre 🎸 Shannon Hoon grabó los coros de November Rain, Don't Cry y Live and Let Die en Use Your Illusion de Guns N' Roses. Su nombre no aparece en ningún crédito. Cuando Blind Melon explotó con la niña de la abeja, millones escuchaban su voz en dos discos al mismo tiempo sin saberlo. Su hija nació 102 días antes de que muriera en el bus de la banda. #RockwiseTales #ShannонHoon #BlindMelon #NoRain #GunsNRoses",
+      "views": 16884,
+      "engagement_rate": 7.5811,
+      "share_rate": 0.4264,
+      "cohort_view_index": 3.112,
+      "next_action": "prometedor_reforzar_search_y_prueba_temprana"
+    },
+    {
+      "id": "7643520375372008712",
+      "date_utc": "2026-05-24",
+      "title": "¿Depeche Mode en una dimensión de Hard Rock? Lo que hizo Def Leppard en Las Vegas con 'Personal Jesus' es de otra galaxia. Aunque el cover de estudio tiene 8 años, esta brutal versión en vivo con calidad impecable acaba de ser liberada. Sube el volumen, disfruta la actuación completa y cuéntame en los comentarios: ¿Es un pecado o le hicieron los honores al clásico? ​#defleppard #depechemode #personaljesus #rockenvivo #rockwisetales",
+      "views": 4406,
+      "engagement_rate": 7.5806,
+      "share_rate": 0.9759,
+      "cohort_view_index": 1.065,
+      "next_action": "buen_contenido_baja_distribucion_reempaquetar"
+    },
+    {
+      "id": "7656862504647134471",
+      "date_utc": "2026-06-30",
+      "title": "Parte 3 - Mad Season terminó con una sola frase en una entrevista. Nadie lo vio venir Julio 1996. El último concierto. Después, solo silencio — hasta que Layne dijo algo que nadie esperaba en una entrevista de AIC. #MadSeason #LayneStaley #AliceInChains #Rockwisetales #Gibsonguitars",
+      "views": 8286,
+      "engagement_rate": 7.4584,
+      "share_rate": 0.1328,
+      "cohort_view_index": 1.209,
+      "next_action": "hacerlo_autosuficiente_sin_parte_n"
+    },
+    {
+      "id": "7632763734053621013",
+      "date_utc": "2026-04-25",
+      "title": "Stone Temple Pilots acaba de silenciar a quienes los llamaban \"imitadores\" con un golpe de autoridad en este 2026. 🎸 Se acabó el debate: desde archivos inéditos en vinilo hasta la reivindicación de \"Tiny Music...\" como la verdadera biblia del Art-Rock. La banda de los hermanos DeLeo y el legado de Scott Weiland reclaman un trono que siempre fue suyo. ¿Es \"Tiny Music\" el disco más infravalorado de la historia? Te leo en los comentarios. #rockwisetales #stonetemplepilots #grunge #rockalternativo #vinilos",
+      "views": 3469,
+      "engagement_rate": 7.149,
+      "share_rate": 0.4612,
+      "cohort_view_index": 1.626,
+      "next_action": "buen_contenido_baja_distribucion_reempaquetar"
+    },
+    {
+      "id": "7646856534038809864",
+      "date_utc": "2026-06-03",
+      "title": "Def Leppard vuelve a LatAm y hay ciudades que los esperan desde 1997 🤘 29 años después, Def Leppard regresa a ciudades que nunca volvieron a pisar. Querétaro y Costa Rica por primera vez en la historia. San Salvador y Quito desde 1997. Y esta vez vienen con Extreme y música nueva. ¿Tu ciudad está en la lista? 👇 #defleppard #defleppard2026 #rockenlatam #rockwisetales #extreme",
+      "views": 35999,
+      "engagement_rate": 7.1308,
+      "share_rate": 1.1806,
+      "cohort_view_index": 9.043,
+      "next_action": "prometedor_reforzar_search_y_prueba_temprana"
+    },
+    {
+      "id": "7656976448061803783",
+      "date_utc": "2026-07-02",
+      "title": "Parte 4 (final) - Mad Season volvió al escenario, pero casi ninguno de los originales seguía vivo. Chris Cornell en el lugar de Layne. Duff McKagan en el lugar de Baker Saunders. La misma música. Otros fantasmas. #MadSeason #ChrisCornell #DuffMcKagan #rockwisetales #gibsonguitars",
+      "views": 6755,
+      "engagement_rate": 7.0762,
+      "share_rate": 0.4293,
+      "cohort_view_index": 0.514,
+      "next_action": "hacerlo_autosuficiente_sin_parte_n"
+    },
+    {
+      "id": "7658837998867402002",
+      "date_utc": "2026-07-07",
+      "title": "Parte 1 - Linkin Park volvió sin avisarle a nadie. Esto es lo que pasó. 7 años de silencio. Un link sin nombre. 400 mil personas conectadas mirando una pantalla en negro. Esta no es la historia de Chester. Es la historia de los que se quedaron. Parte 2 ya está en el perfil 👆 #LinkinPark #ChesterBennington #MikeShinoda #Rockwisetales #ibanez",
+      "views": 5425,
+      "engagement_rate": 6.9309,
+      "share_rate": 0.5899,
+      "cohort_view_index": 0.541,
+      "next_action": "buen_contenido_baja_distribucion_reempaquetar"
+    },
+    {
+      "id": "7625494978285931797",
+      "date_utc": "2026-04-06",
+      "title": "¡MÉXICO SE VA A CAER! ⚡️ AC/DC y la última misa del Rock 🎸🔥 ¿Ya tienen el Dr. Simi de Angus listo? 🧸⚡️ Lo que viene para el show en el Foro Sol (o Estadio GNP) no tiene nombre. Brian Johnson viene a dejar el alma y nosotros la garganta. 🗣️💨 ¿Quiénes ya tienen su boleto y quiénes van a llorar desde afuera? 👇 Etiqueta a tu banda de conciertos. 🤘🎸 #ACDCMexico #argentina #chile #brasil #rockwisetales",
+      "views": 16473,
+      "engagement_rate": 6.8354,
+      "share_rate": 0.1943,
+      "cohort_view_index": 8.933,
+      "next_action": "prometedor_reforzar_search_y_prueba_temprana"
+    },
+    {
+      "id": "7636498791016844565",
+      "date_utc": "2026-05-06",
+      "title": "El sabotaje más glorioso del Rock 🎸🚫 ¿Sabías que Eddie Van Halen rompió su contrato por MJ? 😱 Lo que no verás en el cine: Eddie entró a escondidas al estudio, cortó la cinta maestra con una navaja y creó el solo que derrotó a su propia banda. ¡Literalmente bloqueó a Van Halen del #1 con sus propias manos! 🔥 Sigue la mística de las leyendas en #RockwiseTales. 🎸🎤 #VanHalen #MichaelJackson",
+      "views": 1613,
+      "engagement_rate": 6.8196,
+      "share_rate": 0.558,
+      "cohort_view_index": 0.758,
+      "next_action": "buen_contenido_baja_distribucion_reempaquetar"
+    },
+    {
+      "id": "7651436443897761042",
+      "date_utc": "2026-06-15",
+      "title": "Canciones que arruinaron vidas reales 🎸 Ozzy Osbourne fue a juicio por una canción que él ni siquiera escribió. Metallica terminó siendo dueña de una película de Cannes. Y Screamin' Jay Hawkins grabó su canción más famosa tan borracho que nunca recordó haberlo hecho. Esto no es leyenda urbana. Está documentado. #RockwiseTales #Rock #Metallica #Ozzy #CuriosidadesDelRock",
+      "views": 1938,
+      "engagement_rate": 6.5531,
+      "share_rate": 0.0516,
+      "cohort_view_index": 0.357,
+      "next_action": "buen_contenido_baja_distribucion_reempaquetar"
+    },
+    {
+      "id": "7661322575783529749",
+      "date_utc": "2026-07-12",
+      "title": "Parte 1 - Scott Weiland y La banda que nunca lo quiso de verdad El origen de Stone Temple Pilots no fue una audición. Fue un concierto de Black Flag. Y eso lo explica todo. #ScottWeiland #RockwiseTales #StoneTempelPilots #Shure #GrungeEra",
+      "views": 38395,
+      "engagement_rate": 6.3185,
+      "share_rate": 0.3125,
+      "cohort_view_index": 2.7,
+      "next_action": "prometedor_reforzar_search_y_prueba_temprana"
+    }
+  ],
+  "warnings": [
+    "La API publica no entrega retencion, nuevos espectadores, trafico ni ingresos.",
+    "El proxy de monetizacion usa solo el piso empirico de views totales; no garantiza vistas relevantes ni pago.",
+    "Los indices de cohorte describen asociacion, no causalidad."
+  ]
+}

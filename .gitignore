@@ -1,0 +1,26 @@
+
+# RaiSE personal directory (per-developer, not shared)
+.raise/rai/personal/
+
+# Credenciales - nunca subir
+.secrets/
+
+# Media pesada - vive en Google Drive, no en git
+clips_listos/
+scratch/
+*.mp4
+*.mov
+*.avi
+*.mp3
+*.wav
+*.jpg
+*.jpeg
+*.png
+*.webp
+
+# Python
+__pycache__/
+*.pyc
+
+# RaiSE runtime lock files
+.claude/scheduled_tasks.lock

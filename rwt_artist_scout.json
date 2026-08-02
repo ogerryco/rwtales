@@ -1,0 +1,741 @@
+{
+  "generated": "2026-07-12T13:08:32.431385",
+  "results": [
+    {
+      "artist": "Chi Cheng (Deftones)",
+      "max_views_global": 3706698,
+      "trend_suggestions": [
+        "deftones historia"
+      ],
+      "trend_count": 1,
+      "longform_es_count": 3,
+      "recent_big_es": [],
+      "top_es": {
+        "title": "Deftones: Éxito, Tragedia y Regreso – La verdad y evolución en sus 30 años de carrera",
+        "channel": "INDIE NOW",
+        "views": 3661,
+        "published": "2025-06-27",
+        "min": 9.1
+      },
+      "demand_score": 69.7,
+      "competition_score": 10.7,
+      "opportunity": 59.57
+    },
+    {
+      "artist": "Jeff Buckley",
+      "max_views_global": 247118711,
+      "trend_suggestions": [
+        "jeff buckley muerte"
+      ],
+      "trend_count": 1,
+      "longform_es_count": 5,
+      "recent_big_es": [],
+      "top_es": {
+        "title": "El día que MURIÓ Jeff Buckley - Biografía del músico",
+        "channel": "ElDiaQue",
+        "views": 116892,
+        "published": "2023-10-02",
+        "min": 17.8
+      },
+      "demand_score": 87.9,
+      "competition_score": 15.2,
+      "opportunity": 54.26
+    },
+    {
+      "artist": "David Bowie",
+      "max_views_global": 240143837,
+      "trend_suggestions": [],
+      "trend_count": 0,
+      "longform_es_count": 7,
+      "recent_big_es": [],
+      "top_es": {
+        "title": "DAVID BOWIE: BLACKSTAR ★ TEORÍAS, MENSAJES OCULTOS Y SECRETOS",
+        "channel": "La Hemeroteca",
+        "views": 86755,
+        "published": "2019-05-18",
+        "min": 11.2
+      },
+      "demand_score": 83.8,
+      "competition_score": 14.8,
+      "opportunity": 53.04
+    },
+    {
+      "artist": "Lynyrd Skynyrd",
+      "max_views_global": 92841752,
+      "trend_suggestions": [
+        "lynyrd skynyrd accidente",
+        "lynyrd skynyrd tragedia",
+        "lynyrd skynyrd accidente avion",
+        "lynyrd skynyrd muerte"
+      ],
+      "trend_count": 4,
+      "longform_es_count": 6,
+      "recent_big_es": [],
+      "top_es": {
+        "title": "El día que ocurrió el ACCIDENTE de LYNYRD SKYNYRD - Predijeron su FINAL",
+        "channel": "ElDiaQue",
+        "views": 575072,
+        "published": "2023-10-15",
+        "min": 24.7
+      },
+      "demand_score": 95.7,
+      "competition_score": 17.3,
+      "opportunity": 52.3
+    },
+    {
+      "artist": "Chris Cornell",
+      "max_views_global": 136782885,
+      "trend_suggestions": [
+        "chris cornell muerte noticias",
+        "chris cornell causa de muerte"
+      ],
+      "trend_count": 2,
+      "longform_es_count": 9,
+      "recent_big_es": [],
+      "top_es": {
+        "title": "El día que MURIÓ Chris Cornell",
+        "channel": "ElDiaQue",
+        "views": 979169,
+        "published": "2021-06-10",
+        "min": 15.8
+      },
+      "demand_score": 89.4,
+      "competition_score": 18.0,
+      "opportunity": 47.05
+    },
+    {
+      "artist": "Bon Scott",
+      "max_views_global": 8412306,
+      "trend_suggestions": [
+        "bon scott muerte",
+        "ac dc bon scott muerte",
+        "bon scott como murio"
+      ],
+      "trend_count": 3,
+      "longform_es_count": 8,
+      "recent_big_es": [],
+      "top_es": {
+        "title": "La Historia de AC/DC | Las Historias Del Rock",
+        "channel": "Las Historias del Rock",
+        "views": 1364033,
+        "published": "2022-01-05",
+        "min": 15.1
+      },
+      "demand_score": 81.2,
+      "competition_score": 18.4,
+      "opportunity": 41.86
+    },
+    {
+      "artist": "Taylor Hawkins",
+      "max_views_global": 7919059,
+      "trend_suggestions": [
+        "taylor hawkins muerte"
+      ],
+      "trend_count": 1,
+      "longform_es_count": 7,
+      "recent_big_es": [],
+      "top_es": {
+        "title": "Historia de NIRVANA, DAVE GROHL y FOO FIGHTERS 🎸 Biografía + Secretos + Canciones | Trembol",
+        "channel": "Trembol",
+        "views": 693575,
+        "published": "2022-03-16",
+        "min": 40.9
+      },
+      "demand_score": 73.0,
+      "competition_score": 17.5,
+      "opportunity": 39.46
+    },
+    {
+      "artist": "Vince Neil / Razzle",
+      "max_views_global": 2720468,
+      "trend_suggestions": [
+        "motley crue accidente de vince"
+      ],
+      "trend_count": 1,
+      "longform_es_count": 5,
+      "recent_big_es": [],
+      "top_es": {
+        "title": "Mentiras Que Te Contó La Película De Motley Crue",
+        "channel": "Grunge Español",
+        "views": 952663,
+        "published": "2021-06-04",
+        "min": 9.9
+      },
+      "demand_score": 68.3,
+      "competition_score": 17.9,
+      "opportunity": 36.14
+    },
+    {
+      "artist": "John Bonham",
+      "max_views_global": 202500762,
+      "trend_suggestions": [
+        "john bonham muerte"
+      ],
+      "trend_count": 1,
+      "longform_es_count": 6,
+      "recent_big_es": [
+        {
+          "title": "¿Qué Fue lo que REALMENTE le Pasó a Jhon Bonham?",
+          "channel": "Rock Eterno",
+          "views": 56382,
+          "published": "2025-05-16",
+          "min": 17.7,
+          "views_dia": 133.6
+        }
+      ],
+      "top_es": {
+        "title": "El día que MURIÓ John Bonham - Biografía del baterista de LED ZEPPELIN",
+        "channel": "ElDiaQue",
+        "views": 375992,
+        "published": "2023-09-29",
+        "min": 21.7
+      },
+      "demand_score": 87.1,
+      "competition_score": 27.4,
+      "opportunity": 30.67
+    },
+    {
+      "artist": "Michael Hutchence",
+      "max_views_global": 48460451,
+      "trend_suggestions": [
+        "michael hutchence muerte",
+        "inxs historia",
+        "inxs historia español"
+      ],
+      "trend_count": 3,
+      "longform_es_count": 8,
+      "recent_big_es": [
+        {
+          "title": "Michael Hutchence: The Last Rockstar | Full Documentary",
+          "channel": "INXS TV",
+          "views": 98176,
+          "published": "2024-06-20",
+          "min": 160.1,
+          "views_dia": 130.6
+        }
+      ],
+      "top_es": {
+        "title": "El día que MURIÓ Michael Hutchence - Biografía del cantante de INXS",
+        "channel": "ElDiaQue",
+        "views": 964555,
+        "published": "2023-05-04",
+        "min": 24.9
+      },
+      "demand_score": 88.9,
+      "competition_score": 28.6,
+      "opportunity": 30.03
+    },
+    {
+      "artist": "Peter Steele",
+      "max_views_global": 4282081,
+      "trend_suggestions": [
+        "peter steele muerte",
+        "peter steele historia",
+        "type o negative historia"
+      ],
+      "trend_count": 3,
+      "longform_es_count": 5,
+      "recent_big_es": [
+        {
+          "title": "El Vampiro del Metal - Peter Steele - Type o Negative",
+          "channel": "Metal Hero",
+          "views": 144024,
+          "published": "2024-08-24",
+          "min": 19.9,
+          "views_dia": 209.6
+        }
+      ],
+      "top_es": {
+        "title": "El Vampiro del Metal - Peter Steele - Type o Negative",
+        "channel": "Metal Hero",
+        "views": 144024,
+        "published": "2024-08-24",
+        "min": 19.9
+      },
+      "demand_score": 78.3,
+      "competition_score": 26.5,
+      "opportunity": 28.47
+    },
+    {
+      "artist": "Cliff Burton",
+      "max_views_global": 7984873,
+      "trend_suggestions": [
+        "cliff burton muerte",
+        "cliff burton accidente"
+      ],
+      "trend_count": 2,
+      "longform_es_count": 5,
+      "recent_big_es": [
+        {
+          "title": "ASÍ MURIÓ CLIFF BURTON DE METALLICA 🇸🇪",
+          "channel": "Nico Borie",
+          "views": 98512,
+          "published": "2024-08-14",
+          "min": 11.1,
+          "views_dia": 141.3
+        }
+      ],
+      "top_es": {
+        "title": "Cliff Burton el alma de Metallica",
+        "channel": "Metal Hero",
+        "views": 439179,
+        "published": "2018-06-15",
+        "min": 10.5
+      },
+      "demand_score": 77.0,
+      "competition_score": 27.6,
+      "opportunity": 26.92
+    },
+    {
+      "artist": "Sid Vicious",
+      "max_views_global": 16199084,
+      "trend_suggestions": [
+        "sid vicious historia"
+      ],
+      "trend_count": 1,
+      "longform_es_count": 9,
+      "recent_big_es": [
+        {
+          "title": "Sid Vicious: El crimen que puso fin a los Sex Pistols | Documental criminal",
+          "channel": "Huesos Perdidos",
+          "views": 311277,
+          "published": "2025-03-08",
+          "min": 55,
+          "views_dia": 634.0
+        }
+      ],
+      "top_es": {
+        "title": "sid vicious-24 horas antes de morir.documental",
+        "channel": "cielomadrid",
+        "views": 1609891,
+        "published": "2008-03-31",
+        "min": 9.5
+      },
+      "demand_score": 76.1,
+      "competition_score": 31.8,
+      "opportunity": 23.2
+    },
+    {
+      "artist": "Ace Frehley",
+      "max_views_global": 1866504,
+      "trend_suggestions": [
+        "ace frehley muerte",
+        "ace frehley causa de muerte"
+      ],
+      "trend_count": 2,
+      "longform_es_count": 4,
+      "recent_big_es": [
+        {
+          "title": "Ace Frehley - El Documental, la historia del legendario Spaceman",
+          "channel": "KISSmania",
+          "views": 199478,
+          "published": "2025-03-14",
+          "min": 110.3,
+          "views_dia": 411.3
+        }
+      ],
+      "top_es": {
+        "title": "La entrevista más incómoda de la historia del rock -  KISS en el show de Tom Snyder",
+        "channel": "KISSmania",
+        "views": 1105862,
+        "published": "2024-03-03",
+        "min": 10.1
+      },
+      "demand_score": 70.7,
+      "competition_score": 30.2,
+      "opportunity": 22.66
+    },
+    {
+      "artist": "Slipknot (Gray/Jordison)",
+      "max_views_global": 64214621,
+      "trend_suggestions": [
+        "slipknot historia",
+        "slipknot historia completa",
+        "slipknot historia de sus mascaras",
+        "slipknot historia da banda",
+        "slipknot iowa historia",
+        "snuff slipknot historia",
+        "duality slipknot historia",
+        "slipknot 515 historia"
+      ],
+      "trend_count": 10,
+      "longform_es_count": 7,
+      "recent_big_es": [
+        {
+          "title": "50 DATOS INSERVIBLES SOBRE SLIPKNOT (ft. @nachoin313)",
+          "channel": "MFSamus",
+          "views": 186961,
+          "published": "2024-12-03",
+          "min": 23.4,
+          "views_dia": 319.0
+        },
+        {
+          "title": "Sangre, Drogas, Música y Máscaras || La historia de SlipKnoT pt1 ( LEER DESCRIPCIÓN )",
+          "channel": "Elpa Loma",
+          "views": 125440,
+          "published": "2025-04-12",
+          "min": 41.0,
+          "views_dia": 275.1
+        },
+        {
+          "title": "Slipknot | Historia y curiosidades | MFKR y Slipknot | Parte 1",
+          "channel": "Dave Stigmata",
+          "views": 53786,
+          "published": "2024-06-10",
+          "min": 15.1,
+          "views_dia": 70.6
+        }
+      ],
+      "top_es": {
+        "title": "La Trágica y Verdadera Historia De Slipknot",
+        "channel": "Grunge Español",
+        "views": 3832846,
+        "published": "2020-01-08",
+        "min": 12.9
+      },
+      "demand_score": 118.1,
+      "competition_score": 51.3,
+      "opportunity": 22.58
+    },
+    {
+      "artist": "Syd Barrett",
+      "max_views_global": 6688541,
+      "trend_suggestions": [
+        "syd barrett historia"
+      ],
+      "trend_count": 1,
+      "longform_es_count": 10,
+      "recent_big_es": [
+        {
+          "title": "La trágica historia de Wish You Were Here que casi nadie conoce",
+          "channel": "Tus Clases De Guitarra",
+          "views": 265479,
+          "published": "2025-04-26",
+          "min": 10.3,
+          "views_dia": 600.6
+        }
+      ],
+      "top_es": {
+        "title": "El día que MURIÓ Syd Barret - Biografía del músico creador de PINK FLOYD",
+        "channel": "ElDiaQue",
+        "views": 1129771,
+        "published": "2023-06-13",
+        "min": 26.6
+      },
+      "demand_score": 72.3,
+      "competition_score": 31.2,
+      "opportunity": 22.45
+    },
+    {
+      "artist": "Ozzy Osbourne",
+      "max_views_global": 167996740,
+      "trend_suggestions": [
+        "ozzy osbourne muerte",
+        "ozzy osbourne muerte en vivo",
+        "ozzy osbourne muerte reaccion",
+        "ozzy osbourne vida y muerte"
+      ],
+      "trend_count": 4,
+      "longform_es_count": 7,
+      "recent_big_es": [
+        {
+          "title": "OZZY OSBOURNE: BIOGRAFÍA COMPLETA | EXCESOS Y UN GRAN LEGADO",
+          "channel": "Miguel de Lys",
+          "views": 157850,
+          "published": "2026-01-26",
+          "min": 58.6,
+          "views_dia": 945.2
+        },
+        {
+          "title": "Ozzy Osbourne: El regreso a casa (Documental subtitulado / BBC Archives)",
+          "channel": "Resistance TV",
+          "views": 73791,
+          "published": "2025-10-19",
+          "min": 59.0,
+          "views_dia": 277.4
+        }
+      ],
+      "top_es": {
+        "title": "La Ciencia medica NO puede Explicar porque Ozzy Osbourne sigue vivo",
+        "channel": "EmmaHavokOficial",
+        "views": 2064133,
+        "published": "2019-08-14",
+        "min": 8.2
+      },
+      "demand_score": 98.3,
+      "competition_score": 43.7,
+      "opportunity": 21.99
+    },
+    {
+      "artist": "Héroes del Silencio",
+      "max_views_global": 24279957,
+      "trend_suggestions": [],
+      "trend_count": 0,
+      "longform_es_count": 6,
+      "recent_big_es": [
+        {
+          "title": "¿Por qué ENRIQUE BUNBURY se fue de HÉROES DEL SILENCIO? - con Melo Montoya",
+          "channel": "Melo Montoya",
+          "views": 66528,
+          "published": "2026-05-25",
+          "min": 55.7,
+          "views_dia": 1386.0
+        }
+      ],
+      "top_es": {
+        "title": "EL DETRAS DE LA SEPARACION DE HEROES DEL SILENCIO",
+        "channel": "Roberto Mtz",
+        "views": 389150,
+        "published": "2023-07-07",
+        "min": 9.7
+      },
+      "demand_score": 73.9,
+      "competition_score": 33.7,
+      "opportunity": 21.3
+    },
+    {
+      "artist": "Eddie Van Halen",
+      "max_views_global": 14894255,
+      "trend_suggestions": [
+        "van halen historia",
+        "van halen beat it historia",
+        "van halen solo beat it historia"
+      ],
+      "trend_count": 3,
+      "longform_es_count": 4,
+      "recent_big_es": [
+        {
+          "title": "Qué fue lo que REALMENTE le paso a Eddie Van Halen?",
+          "channel": "Rock Eterno",
+          "views": 55453,
+          "published": "2025-08-01",
+          "min": 12.5,
+          "views_dia": 160.7
+        },
+        {
+          "title": "La traición que DESTRUYÓ a Eddie Van Halen",
+          "channel": "Tus Clases De Guitarra",
+          "views": 51604,
+          "published": "2026-05-14",
+          "min": 12.8,
+          "views_dia": 874.6
+        }
+      ],
+      "top_es": {
+        "title": "Qué fue lo que REALMENTE le paso a Eddie Van Halen?",
+        "channel": "Rock Eterno",
+        "views": 55453,
+        "published": "2025-08-01",
+        "min": 12.5
+      },
+      "demand_score": 83.7,
+      "competition_score": 38.6,
+      "opportunity": 21.14
+    },
+    {
+      "artist": "Dolores O'Riordan",
+      "max_views_global": 22026835,
+      "trend_suggestions": [
+        "dolores o'riordan muerte",
+        "cranberries zombie historia",
+        "the cranberries zombie historia de la cancion"
+      ],
+      "trend_count": 3,
+      "longform_es_count": 8,
+      "recent_big_es": [
+        {
+          "title": "La Trágica Muerte de Dolores O'Riordan y La Historia De The Cranberries y Zombie",
+          "channel": "Herencia Rockera",
+          "views": 263991,
+          "published": "2026-03-23",
+          "min": 15.9,
+          "views_dia": 2378.3
+        }
+      ],
+      "top_es": {
+        "title": "El Día Que MURIÓ Dolores O´ Riordan",
+        "channel": "ElDiaQue",
+        "views": 1493698,
+        "published": "2022-03-27",
+        "min": 20.2
+      },
+      "demand_score": 85.4,
+      "competition_score": 40.4,
+      "opportunity": 20.63
+    },
+    {
+      "artist": "Oasis (Gallagher)",
+      "max_views_global": 87794925,
+      "trend_suggestions": [],
+      "trend_count": 0,
+      "longform_es_count": 7,
+      "recent_big_es": [
+        {
+          "title": "NOEL VS LIAM: La PELEA del Milenio | Cronología de una Rivalidad Entre Hermanos",
+          "channel": "La Hemeroteca",
+          "views": 89946,
+          "published": "2024-09-16",
+          "min": 14.0,
+          "views_dia": 135.5
+        },
+        {
+          "title": "EL ODIO DE LOS HERMANOS GALLAGHER // ASCENSO Y CAÍDA DE OASIS (LIAM Y NOEL)",
+          "channel": "Crónicas Musicales",
+          "views": 50946,
+          "published": "2026-04-13",
+          "min": 48.5,
+          "views_dia": 566.1
+        }
+      ],
+      "top_es": {
+        "title": "NOEL VS LIAM: La PELEA del Milenio | Cronología de una Rivalidad Entre Hermanos",
+        "channel": "La Hemeroteca",
+        "views": 89946,
+        "published": "2024-09-16",
+        "min": 14.0
+      },
+      "demand_score": 79.4,
+      "competition_score": 37.7,
+      "opportunity": 20.52
+    },
+    {
+      "artist": "Chester Bennington",
+      "max_views_global": 51822827,
+      "trend_suggestions": [
+        "chester bennington historia",
+        "chester bennington como murio"
+      ],
+      "trend_count": 2,
+      "longform_es_count": 6,
+      "recent_big_es": [
+        {
+          "title": "LINKIN PARK 📀 La HISTORIA Completa de una Leyenda | DOCUMENTAL",
+          "channel": "INFERNO MUSIC",
+          "views": 358720,
+          "published": "2025-08-28",
+          "min": 67.2,
+          "views_dia": 1128.1
+        },
+        {
+          "title": "La verdad de lo que pasó con el Vocalista de Linkin Park - Chester Bennington",
+          "channel": "Historia Incomprendida",
+          "views": 139946,
+          "published": "2024-06-13",
+          "min": 27.1,
+          "views_dia": 184.4
+        }
+      ],
+      "top_es": {
+        "title": "El día que MURIÓ Chester Bennington / Biografía del cantante de LINKIN PARK / Documental",
+        "channel": "ElDiaQue",
+        "views": 1539330,
+        "published": "2021-05-28",
+        "min": 20.2
+      },
+      "demand_score": 85.1,
+      "competition_score": 44.2,
+      "opportunity": 18.83
+    },
+    {
+      "artist": "Lemmy Kilmister",
+      "max_views_global": 89835700,
+      "trend_suggestions": [
+        "lemmy motorhead documental español"
+      ],
+      "trend_count": 1,
+      "longform_es_count": 8,
+      "recent_big_es": [
+        {
+          "title": "SPEED, WHISKY Y ROCK N' ROLL - Recordando la leyenda de LEMMY de Mötorhead",
+          "channel": "The Wild Project",
+          "views": 122466,
+          "published": "2025-02-10",
+          "min": 10.7,
+          "views_dia": 236.9
+        },
+        {
+          "title": "LEMMY KILMISTER: BIOGRAFÍA COMPLETA | MOTÖRHEAD, EXCESOS Y LEGADO",
+          "channel": "Miguel de Lys",
+          "views": 71021,
+          "published": "2026-06-07",
+          "min": 41.2,
+          "views_dia": 2029.2
+        }
+      ],
+      "top_es": {
+        "title": "El día que MURIÓ Lemmy Kilmister",
+        "channel": "ElDiaQue",
+        "views": 395005,
+        "published": "2021-12-01",
+        "min": 21.6
+      },
+      "demand_score": 83.5,
+      "competition_score": 46.9,
+      "opportunity": 17.43
+    },
+    {
+      "artist": "Randy Rhoads",
+      "max_views_global": 11251721,
+      "trend_suggestions": [
+        "randy rhoads muerte"
+      ],
+      "trend_count": 1,
+      "longform_es_count": 3,
+      "recent_big_es": [
+        {
+          "title": "Randy Rhoads Crash March 19, 1982",
+          "channel": "Forrest Haggerty Channel",
+          "views": 637056,
+          "published": "2024-12-29",
+          "min": 8.2,
+          "views_dia": 1137.6
+        },
+        {
+          "title": "¿Qué fue lo que REALMENTE le pasó a Randy Rhoades?",
+          "channel": "Rock Eterno",
+          "views": 238482,
+          "published": "2025-06-06",
+          "min": 13.2,
+          "views_dia": 594.7
+        }
+      ],
+      "top_es": {
+        "title": "Randy Rhoads Crash March 19, 1982",
+        "channel": "Forrest Haggerty Channel",
+        "views": 637056,
+        "published": "2024-12-29",
+        "min": 8.2
+      },
+      "demand_score": 74.5,
+      "competition_score": 43.1,
+      "opportunity": 16.89
+    },
+    {
+      "artist": "Gustavo Cerati",
+      "max_views_global": 361684933,
+      "trend_suggestions": [],
+      "trend_count": 0,
+      "longform_es_count": 10,
+      "recent_big_es": [
+        {
+          "title": "El ÉXITO, la SOLEDAD y el TRÁGICO FINAL de GUSTAVO CERATI | Documental",
+          "channel": "Dieck Docs",
+          "views": 6055036,
+          "published": "2025-02-01",
+          "min": 25.9,
+          "views_dia": 11511.5
+        }
+      ],
+      "top_es": {
+        "title": "El ÉXITO, la SOLEDAD y el TRÁGICO FINAL de GUSTAVO CERATI | Documental",
+        "channel": "Dieck Docs",
+        "views": 6055036,
+        "published": "2025-02-01",
+        "min": 25.9
+      },
+      "demand_score": 85.6,
+      "competition_score": 87.9,
+      "opportunity": 9.63
+    }
+  ]
+}
